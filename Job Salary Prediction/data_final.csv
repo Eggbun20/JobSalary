@@ -1,0 +1,1489 @@
+,Title,Company,Type,AvgSalary,City,State,Data analyst,Data engineer,Data science,Development
+2,Data Science Co-Op- Fall 2022,Sony Music Entertainment US,3,5,New York, NY,0,0,1,0
+7,Data Science Co-Op- Fall 2022,American Institutes for Research,1,2,Unknow,UK,0,0,1,0
+18,Assistant/Associate Project Scientist - Social Science Data...,Certilytics,1,3,United States,UK,0,0,1,0
+22,Assistant/Associate Project Scientist - Social Science Data...,Instec Corp,3,3,Unknow,UK,0,0,1,0
+23,Assistant/Associate Project Scientist - Social Science Data...,SunPower,3,2,Unknow,UK,0,0,1,0
+24,Assistant/Associate Project Scientist - Social Science Data...,Stitch Fix,3,3,Unknow,UK,0,0,1,0
+32,Data Scientist,Aroopa,2,4,San Francisco, CA,0,0,1,0
+42,Data Scientist,Stitch Fix,3,3,Unknow,UK,0,0,1,0
+58,"Research Scientist, The Device Science and Data Technology",Bright Apps LLC,1,5,San Francisco Bay Area, CA,0,0,1,0
+61,Data Scientist,CliftonLarsonAllen,1,1,Minneapolis, MN,0,0,1,0
+64,Data Scientist,Certilytics,1,3,United States,UK,0,0,1,0
+66,Data Scientist,Spotify,3,3,New York, NY,0,0,1,0
+67,Data Scientist,"O'Neil Global Advisors, Inc.",3,3,Austin, TX,0,0,1,0
+72,Data Scientist,Electric Power Research Institute,0,1,Charlotte, NC,0,0,1,0
+75,Associate Data Scientist,EAB,1,2,Unknow,UK,0,0,1,0
+77,Associate Data Scientist,Improvix Technologies,3,4,Reston, VA,0,0,1,0
+78,Associate Data Scientist,APCO Worldwide,1,1,Raleigh, NC,0,0,1,0
+80,Associate Data Scientist,Expleo,2,4,Minneapolis, MN,0,0,1,0
+84,Associate Data Scientist,TikTok,3,3,Mountain View, CA,0,0,1,0
+87,Associate Data Scientist,Root Insurance Company,3,1,Unknow,UK,0,0,1,0
+93,Environmental Data Scientist- REMOTE,"Grammarly, Inc.",3,4,Unknow,UK,0,0,1,0
+94,Environmental Data Scientist- REMOTE,Ars Quanta,3,3,Seattle, WA,0,0,1,0
+95,Environmental Data Scientist- REMOTE,Improvix Technologies,3,4,Reston, VA,0,0,1,0
+96,Environmental Data Scientist- REMOTE,APCO Worldwide,1,1,Raleigh, NC,0,0,1,0
+97,Environmental Data Scientist- REMOTE,"Prodege, LLC",3,3,El Segundo, CA,0,0,1,0
+98,Environmental Data Scientist- REMOTE,Starz,3,4,New York, NY,0,0,1,0
+99,Environmental Data Scientist- REMOTE,TikTok,3,3,Mountain View, CA,0,0,1,0
+100,Environmental Data Scientist- REMOTE,EAB,1,2,Unknow,UK,0,0,1,0
+105,"Staff Data Scientist, Clinical",Dexcom,3,4,San Diego, CA,0,0,1,0
+106,"Staff Data Scientist, Clinical","Aflac, Incorporated",1,2,Columbus, GA,0,0,1,0
+107,"Staff Data Scientist, Clinical",Fisher Investments,1,1,Camas, WA,0,0,1,0
+110,"Staff Data Scientist, Clinical",Millennium Trust Company,1,2,Unknow,UK,0,0,1,0
+111,"Staff Data Scientist, Clinical",Bright Apps LLC,1,5,San Francisco Bay Area, CA,0,0,1,0
+112,"Staff Data Scientist, Clinical",Roq.ad GmbH,3,2,Resolution, VI,0,0,1,0
+115,"Staff Data Scientist, Clinical",Spotify,3,4,New York, NY,0,0,1,0
+117,"Staff Data Scientist, Clinical",Evotec,1,3,Seattle, WA,0,0,1,0
+118,"Staff Data Scientist, Clinical",TikTok,3,4,New York, NY,0,0,1,0
+119,"Staff Data Scientist, Clinical",EAB,1,2,Unknow,UK,0,0,1,0
+120,Data Scientist - Remote,PatientPoint,1,3,Unknow,UK,0,0,1,0
+121,Data Scientist - Remote,Logistics Management Institute,1,2,Tysons, VA,0,0,1,0
+122,Data Scientist - Remote,Roq.ad GmbH,3,2,Resolution, VI,0,0,1,0
+125,Data Scientist - Remote,"Quadrint, Inc.",1,2,McLean, VA,0,0,1,0
+126,Data Scientist - Remote,ICW Group,1,2,San Diego, CA,0,0,1,0
+127,Data Scientist - Remote,Evotec,1,3,Seattle, WA,0,0,1,0
+129,Data Scientist - Remote,Keewi,3,3,Santa Clara, CA,0,0,1,0
+135,Statisticians/Methodologists,Dissertation Editor,0,1,Unknow,UK,0,0,1,0
+136,Statisticians/Methodologists,"Quadrint, Inc.",1,2,McLean, VA,0,0,1,0
+137,Statisticians/Methodologists,Starz,3,4,New York, NY,0,0,1,0
+139,Statisticians/Methodologists,Roq.ad GmbH,3,2,Resolution, VI,0,0,1,0
+142,Statisticians/Methodologists,Millennium Trust Company,1,2,Unknow,UK,0,0,1,0
+145,Statisticians/Methodologists,Red Ventures,3,6,Austin, TX,0,0,1,0
+147,Statisticians/Methodologists,"Prodege, LLC",3,3,El Segundo, CA,0,0,1,0
+149,Statisticians/Methodologists,Vitria Technology,3,4,Menlo Park, CA,0,0,1,0
+152,Population Health Data Science Senior Advisor-CareAllies - W...,"VIZIO, Inc.",1,5,San Francisco, CA,0,0,1,0
+153,Population Health Data Science Senior Advisor-CareAllies - W...,"Palladium Group, Inc.",3,2,Washington, DC,0,0,1,0
+159,Population Health Data Science Senior Advisor-CareAllies - W...,Vectra AI,3,3,San Jose, CA,0,0,1,0
+161,Population Health Data Science Senior Advisor-CareAllies - W...,e-Infochips,1,2,Denver, CO,0,0,1,0
+162,Population Health Data Science Senior Advisor-CareAllies - W...,Trusted Media Brands,1,3,Unknow,UK,0,0,1,0
+163,Population Health Data Science Senior Advisor-CareAllies - W...,CriticalRiver Inc.,3,4,Unknow,UK,0,0,1,0
+164,Population Health Data Science Senior Advisor-CareAllies - W...,Bright Apps LLC,1,5,San Francisco Bay Area, CA,0,0,1,0
+167,Data Scientist,Vitria Technology,3,4,Menlo Park, CA,0,0,1,0
+171,Data Scientist,LendingTree,3,3,Charlotte, NC,0,0,1,0
+172,Data Scientist,"VIZIO, Inc.",1,5,San Francisco, CA,0,0,1,0
+176,Data Scientist,Clubhouse,1,3,Unknow,UK,0,0,1,0
+177,Data Scientist,Pacific Northwest National Laboratory,1,2,Richland, WA,0,0,1,0
+179,Data Scientist,ICW Group,1,2,San Diego, CA,0,0,1,0
+181,Sr. Director Data Science - Telecommute,Ascendis Pharma,1,5,Palo Alto, CA,0,0,1,0
+183,Sr. Director Data Science - Telecommute,ANALYTOS,3,2,Austin, TX,0,0,1,0
+184,Sr. Director Data Science - Telecommute,Tredence,3,5,Seattle, WA,0,0,1,0
+186,Sr. Director Data Science - Telecommute,Etsy,1,3,Brooklyn, NY,0,0,1,0
+188,Sr. Director Data Science - Telecommute,The Tearney Lab,1,4,Boston, MA,0,0,1,0
+189,Sr. Director Data Science - Telecommute,Vitria Technology,3,4,Menlo Park, CA,0,0,1,0
+194,Sr. Director Data Science - Telecommute,Root Insurance Company,3,1,Unknow,UK,0,0,1,0
+199,Data Scientist,Kinect,3,4,Boston, MA,0,0,1,0
+200,Data Scientist,NFC Solutions,3,3,Cumming, GA,0,0,1,0
+202,Data Scientist,Blue Cross Blue Shield of Louisiana,3,3,Baton Rouge, LA,0,0,1,0
+207,Data Scientist,CriticalRiver Inc.,3,4,Unknow,UK,0,0,1,0
+208,Data Scientist,New Mexico Consortium,3,2,Los Alamos, NM,0,0,1,0
+210,Data Scientist,XL Softek,3,3,Suwanee, GA,0,0,1,0
+213,Data Scientist,Carma Technology Corporation,1,3,Unknow,UK,0,0,1,0
+222,Data Scientist,SmartUQ,3,2,Madison, WI,0,0,1,0
+223,Data Scientist,Dexcom,3,4,San Diego, CA,0,0,1,0
+227,Data Scientist,Federal Reserve Bank of New York,1,3,New York, NY,0,0,1,0
+235,Data Scientist,Root Insurance Company,3,1,Unknow,UK,0,0,1,0
+246,Senior Data Analyst,NFC Solutions,3,3,Cumming, GA,0,0,1,0
+256,Director Data Science,Dark Wolf Solutions,3,3,McLean, VA,0,0,1,0
+257,Director Data Science,Q2ebanking,1,4,United States,UK,0,0,1,0
+261,Director Data Science,Internews,3,1,Unknow,UK,0,0,1,0
+267,Director Data Science,Datavant,3,4,Austin, TX,0,0,1,0
+273,Global Communications Data Analyst,CliftonLarsonAllen,1,1,Minneapolis, MN,0,0,1,0
+278,Global Communications Data Analyst,Ripple,3,4,San Francisco, CA,0,0,1,0
+279,Global Communications Data Analyst,Decision Spot,3,3,Chicago, IL,0,0,1,0
+281,Global Communications Data Analyst,Protective Life Corporation,1,3,Unknow,UK,0,0,1,0
+282,Global Communications Data Analyst,DOTS Technology Corp,3,5,Natick, MA,0,0,1,0
+284,Global Communications Data Analyst,LendingTree,3,3,Charlotte, NC,0,0,1,0
+288,Lead Data Scientist - Digital and Data Science - JJSC (Remot...,NRG,3,4,Houston, TX,0,0,1,0
+292,Lead Data Scientist - Digital and Data Science - JJSC (Remot...,Bluecore,3,5,Unknow,UK,0,0,1,0
+293,Lead Data Scientist - Digital and Data Science - JJSC (Remot...,Internews,3,1,Unknow,UK,0,0,1,0
+298,Lead Data Scientist - Digital and Data Science - JJSC (Remot...,LendingTree,3,3,Charlotte, NC,0,0,1,0
+304,"Manager, Data Science",Trellance,1,1,Unknow,UK,0,0,1,0
+306,"Manager, Data Science",EAB,1,2,Unknow,UK,0,0,1,0
+309,"Manager, Data Science","Quadrint, Inc.",1,2,McLean, VA,0,0,1,0
+311,"Manager, Data Science",kraken,1,3,Unknow,UK,0,0,1,0
+313,"Manager, Data Science",Internews,3,1,Unknow,UK,0,0,1,0
+315,"Data Scientist, RippleX",Ripple,3,4,San Francisco, CA,0,0,1,0
+318,"Data Scientist, RippleX",Cash App,1,4,San Francisco, CA,0,0,1,0
+322,"Data Scientist, RippleX",Seagen,3,5,Bothell, WA,0,0,1,0
+325,"Data Scientist, RippleX",Trellance,1,1,Unknow,UK,0,0,1,0
+329,"Data Scientist, RippleX","AVNIK Defense Solutions, Inc.",1,1,Redstone Arsenal, AL,0,0,1,0
+330,Data Scientist (Remote),Florida Blue,1,3,Unknow,UK,0,0,1,0
+334,Data Scientist (Remote),MultiPlan Inc.,3,4,Unknow,UK,0,0,1,0
+336,Data Scientist (Remote),Seagen,3,5,Bothell, WA,0,0,1,0
+338,Data Scientist (Remote),Mission Analytics Group,1,3,San Francisco, CA,0,0,1,0
+340,Data Scientist (Remote),Beazley,3,2,United States,UK,0,0,1,0
+341,Data Scientist (Remote),Castleton Commodities International,1,2,Houston, TX,0,0,1,0
+343,Data Scientist (Remote),Hilton Grand Vacations,3,2,Orlando, FL,0,0,1,0
+345,Sr. Data Scientist,Qcentrio,2,5,Dallas, TX,0,0,1,0
+348,Sr. Data Scientist,MultiPlan Inc.,3,4,Unknow,UK,0,0,1,0
+349,Sr. Data Scientist,Seagen,3,5,Bothell, WA,0,0,1,0
+353,Sr. Data Scientist,Ripple,3,4,San Francisco, CA,0,0,1,0
+364,"Manager, Data Science",OpsVeda,3,3,Greensboro, NC,0,0,1,0
+372,"Manager, Data Science",Florida Blue,1,3,Unknow,UK,0,0,1,0
+373,"Manager, Data Science",f5,1,4,San Jose, CA,0,0,1,0
+389,"Manager, Data Analytics",Dropbox,3,4,Austin, TX,0,0,1,0
+394,Data Scientist,Logistics Management Institute,1,2,Tysons, VA,0,0,1,0
+398,Data Scientist,Encamp,3,3,Indianapolis, IN,0,0,1,0
+400,Data Scientist,managementsolutions,3,2,Boston, MA,0,0,1,0
+403,Data Scientist,KelaHealth,3,4,San Francisco, CA,0,0,1,0
+406,Data Science Mentor,Numerdox,0,2,Sacramento, CA,0,0,1,0
+408,Data Science Mentor,Dana-Farber Cancer Institute,1,3,Boston, MA,0,0,1,0
+415,Data Science Mentor,Trellance,3,3,Tampa, FL,0,0,1,0
+419,Data Science Mentor,Datavant,3,4,Austin, TX,0,0,1,0
+421,"Data Scientist, Marketing Analytics",CriticalRiver Inc.,3,4,Unknow,UK,0,0,1,0
+444,Product Data Analyst (REMOTE),"ICW Group Holdings, Inc",1,2,San Diego, CA,0,0,1,0
+446,Product Data Analyst (REMOTE),Etsy,1,3,Brooklyn, NY,0,0,1,0
+452,CAHPS Data Analyst,Agama Solutions,1,2,Unknow,UK,0,0,1,0
+455,CAHPS Data Analyst,Kinect,3,4,Boston, MA,0,0,1,0
+458,CAHPS Data Analyst,EAB,1,2,Unknow,UK,0,0,1,0
+462,CAHPS Data Analyst,Cato Institute,1,1,Unknow,UK,0,0,1,0
+466,Data Analyst,Numerdox,0,2,Sacramento, CA,0,0,1,0
+473,Data Analyst,Datavant,3,4,Austin, TX,0,0,1,0
+478,Data Analyst,TimelyMD,1,2,Dallas-Fort Worth, TX,0,0,1,0
+482,"Manager, Data Analytics","Deserve, Inc.",1,3,Palo Alto, CA,0,0,1,0
+484,"Manager, Data Analytics",ELT Solutions,3,3,San Jose, CA,0,0,1,0
+491,"Manager, Data Analytics",SmartUQ,3,2,Madison, WI,0,0,1,0
+497,"AI/ML Center of Excellence - AVP, Data Science",TimelyMD,1,2,Dallas-Fort Worth, TX,0,0,1,0
+501,"AI/ML Center of Excellence - AVP, Data Science",Logistics Management Institute,1,2,Tysons, VA,0,0,1,0
+503,"AI/ML Center of Excellence - AVP, Data Science",Micron,3,4,Boise, ID,0,0,1,0
+504,"AI/ML Center of Excellence - AVP, Data Science",Q2ebanking,1,4,United States,UK,0,0,1,0
+508,"AI/ML Center of Excellence - AVP, Data Science",kraken,1,3,Unknow,UK,0,0,1,0
+510,Senior Data Science Manager,Dropbox,3,4,Austin, TX,0,0,1,0
+511,Senior Data Science Manager,Wise Equation Solutions,3,3,Austin, TX,0,0,1,0
+515,Senior Data Science Manager,Agama Solutions,2,4,Atlanta, GA,0,0,1,0
+516,Senior Data Science Manager,Vistra Communications,3,3,Tampa, FL,0,0,1,0
+519,Senior Data Science Manager,Entergy,3,3,The Woodlands, TX,0,0,1,0
+520,Senior Data Science Manager,Ripple,3,4,San Francisco, CA,0,0,1,0
+524,Senior Data Science Manager,Constant Contact,3,3,Unknow,UK,0,0,1,0
+525,Business Analyst/Data Scientist,Algonomy,3,3,San Francisco Bay Area, CA,0,0,1,0
+532,Business Analyst/Data Scientist,Constant Contact,3,3,Unknow,UK,0,0,1,0
+533,Business Analyst/Data Scientist,kraken,1,3,Unknow,UK,0,0,1,0
+541,Data Engineer,Popular Community Bank,3,4,San Juan, PR,0,0,1,0
+543,Data Engineer,EAB,1,2,Unknow,UK,0,0,1,0
+545,Data Engineer,Cruise,3,4,San Francisco, CA,0,0,1,0
+546,Data Engineer,Society for Human Resource Management,1,4,Alexandria, VA,0,0,1,0
+552,Data Engineer,Micron,3,4,Boise, ID,0,0,1,0
+554,Data Engineer,Voloridge Investment Management,3,3,Jupiter, FL,0,0,1,0
+560,Data Scientist,"Kyndryl, Inc.",1,3,Austin, TX,0,0,1,0
+562,Data Scientist,iptiQ,3,3,Armonk, NY,0,0,1,0
+565,Data Scientist,Chicago Public Schools,0,3,Chicago, IL,0,0,1,0
+570,Director of Data Science,Redhorse Corporation,3,5,Arlington, VA,0,0,1,0
+577,Director of Data Science,XL Softek,3,3,Suwanee, GA,0,0,1,0
+584,Director of Data Science,Houzz,1,3,Unknow,UK,0,0,1,0
+585,Staff Data Scientist,Faire,3,5,San Francisco, CA,0,0,1,0
+586,Staff Data Scientist,Federal Reserve Bank of New York,1,3,New York, NY,0,0,1,0
+587,Staff Data Scientist,Greenway Health,1,1,United States,UK,0,0,1,0
+590,Staff Data Scientist,Mostly AI Solutions MP GmbH,1,3,New York, NY,0,0,1,0
+595,Staff Data Scientist,Agama Solutions,2,4,Atlanta, GA,0,0,1,0
+600,Senior Data Analyst,kraken,1,3,Unknow,UK,0,0,1,0
+601,Senior Data Analyst,"Kyndryl, Inc.",1,3,Austin, TX,0,0,1,0
+602,Senior Data Analyst,Cato Institute,1,1,Unknow,UK,0,0,1,0
+603,Senior Data Analyst,Squarespace,3,4,New York, NY,0,0,1,0
+604,Senior Data Analyst,Q2ebanking,1,4,United States,UK,0,0,1,0
+605,Senior Data Analyst,Avila Trading,3,4,San Francisco, CA,0,0,1,0
+607,Senior Data Analyst,Mission Analytics Group,1,3,San Francisco, CA,0,0,1,0
+611,Senior Data Analyst,Veho,1,2,Unknow,UK,0,0,1,0
+618,Data Science Manager - #1658 (US Remote only),Kinect,3,4,Boston, MA,0,0,1,0
+621,Data Science Manager - #1658 (US Remote only),Federal Reserve Bank of New York,1,3,New York, NY,0,0,1,0
+625,Data Science Manager - #1658 (US Remote only),Voloridge Investment Management,3,3,Jupiter, FL,0,0,1,0
+627,Data Science Manager - #1658 (US Remote only),Rain Instant Pay,3,4,Santa Monica, CA,0,0,1,0
+628,Data Science Manager - #1658 (US Remote only),Micron,3,4,Boise, ID,0,0,1,0
+629,Data Science Manager - #1658 (US Remote only),Indio Management,1,1,Dallas, TX,0,0,1,0
+631,Full-Stack Data Scientist,Micron,3,4,Boise, ID,0,0,1,0
+633,Full-Stack Data Scientist,FT Optimize,1,3,Unknow,UK,0,0,1,0
+637,Full-Stack Data Scientist,Spotnana Technology,3,4,San Francisco, CA,0,0,1,0
+638,Full-Stack Data Scientist,FLYR Labs,1,2,Unknow,UK,0,0,1,0
+642,Full-Stack Data Scientist,Digital Science,1,4,Boston, MA,0,0,1,0
+645,Senior Data Engineer,Areté,1,3,Arlington, VA,0,0,1,0
+647,Senior Data Engineer,Ars Quanta,3,3,Seattle, WA,0,0,1,0
+649,Senior Data Engineer,PacketFabric,1,3,Austin, TX,0,0,1,0
+654,Senior Data Engineer,Sojern,1,4,San Francisco, CA,0,0,1,0
+655,Senior Data Engineer,Duolingo,3,2,Pittsburgh, PA,0,0,1,0
+661,Data Analyst,Beazley,3,2,United States,UK,0,0,1,0
+665,Data Analyst,Ars Quanta,3,3,Seattle, WA,0,0,1,0
+668,Data Analyst,MetroStar,1,3,Washington, DC,0,0,1,0
+669,Data Analyst,Root Insurance Company,3,3,Unknow,UK,0,0,1,0
+671,Data Analyst,XL Softek,3,3,Suwanee, GA,0,0,1,0
+674,Data Analyst,Maronda Inc. and Subsidiaries,1,3,Imperial, PA,0,0,1,0
+681,Data Engineer,Kinect,3,4,Boston, MA,0,0,1,0
+685,Data Engineer,User Interviews,3,3,Brooklyn, NY,0,0,1,0
+686,Data Engineer,"Point Digital Finance, Inc.",3,2,Palo Alto, CA,0,0,1,0
+688,Data Engineer,Mostly AI Solutions MP GmbH,1,3,New York, NY,0,0,1,0
+693,Data Analyst,Daugherty Business Solutions,1,3,St. Louis, MO,0,0,1,0
+704,Data Analyst,"Shaw Industries Group, Inc.",1,2,Dalton, GA,0,0,1,0
+706,Big Data Engineer,"SilverEdge Government Solutions, LLC",3,4,McLean, VA,0,0,1,0
+715,Big Data Engineer,Convoy,3,3,Unknow,UK,0,0,1,0
+717,Big Data Engineer,Daugherty Business Solutions,1,3,St. Louis, MO,0,0,1,0
+722,Data Analyst,Databricks,3,4,Unknow,UK,0,0,1,0
+724,Data Analyst,Houzz,1,4,Unknow,UK,0,0,1,0
+726,Data Analyst,Faire,3,5,San Francisco, CA,0,0,1,0
+730,Data Analyst,Chicago Public Schools,0,3,Chicago, IL,0,0,1,0
+740,(Junior / Senior) Machine Learning (ML) Engineer - Sports An...,"Lutron Electronics Co., Inc",1,4,Coopersburg, PA,0,0,1,0
+748,(Junior / Senior) Machine Learning (ML) Engineer - Sports An...,StangaOne1,1,3,Unknow,UK,0,0,1,0
+749,(Junior / Senior) Machine Learning (ML) Engineer - Sports An...,Bethesda Softworks,3,3,Hunt Valley, MD,0,0,1,0
+753,QR Rates Data Analytics Associate in NYC,VSCO,1,3,Unknow,UK,0,0,1,0
+754,QR Rates Data Analytics Associate in NYC,Ripple,3,4,San Francisco, CA,0,0,1,0
+757,QR Rates Data Analytics Associate in NYC,NRG,3,4,Houston, TX,0,0,1,0
+765,"Statistician, Advanced Analytics and Data Science","Neustar, Inc.",1,2,New York, NY,0,0,1,0
+767,"Statistician, Advanced Analytics and Data Science",Stax Inc,1,1,Chicago, IL,0,0,1,0
+770,"Statistician, Advanced Analytics and Data Science",PacketFabric,1,3,Austin, TX,0,0,1,0
+782,Data Scientist / Data Engineer,Sapient Industries,3,4,Philadelphia, PA,0,0,1,0
+787,Data Scientist / Data Engineer,Popular Community Bank,3,4,San Juan, PR,0,0,1,0
+793,Data Scientist / Data Engineer,dYdX,3,4,New York, NY,0,0,1,0
+802,Data Scientist,Park National Bank,1,4,Ohio,UK,0,0,1,0
+804,Data Scientist,"Point Digital Finance, Inc.",3,2,Palo Alto, CA,0,0,1,0
+811,"Associate Data Analyst, WoW Analytics",Blizzard Entertainment,3,1,Irvine, CA,0,0,1,0
+812,"Associate Data Analyst, WoW Analytics",Iconity,1,4,Unknow,UK,0,0,1,0
+816,"Associate Data Analyst, WoW Analytics",Texas Children's Hospital,3,4,Houston, TX,0,0,1,0
+819,"Associate Data Analyst, WoW Analytics",ANALYTOS,3,2,Austin, TX,0,0,1,0
+825,"Associate, Data Science",Stax Inc,1,1,Chicago, IL,0,0,1,0
+826,"Associate, Data Science",Eventbrite,1,4,Unknow,UK,0,0,1,0
+830,"Associate, Data Science",Planet Technologies,1,4,Unknow,UK,0,0,1,0
+832,"Associate, Data Science",Tenerity,3,5,Unknow,UK,0,0,1,0
+833,"Associate, Data Science",JPL/NASA,1,2,Pasadena, CA,0,0,1,0
+835,"Associate, Data Science",Camgian,3,4,Starkville, MS,0,0,1,0
+841,Data & Analytics Consultant - San Francisco,OtterTune,1,3,Unknow,UK,0,0,1,0
+842,Data & Analytics Consultant - San Francisco,Ginger,1,4,Unknow,UK,0,0,1,0
+846,Data & Analytics Consultant - San Francisco,JPL/NASA,1,2,Pasadena, CA,0,0,1,0
+847,Data & Analytics Consultant - San Francisco,iCube Consulting Services,3,3,United States,UK,0,0,1,0
+852,Data & Analytics Consultant - San Francisco,TikTok,3,3,Los Angeles, CA,0,0,1,0
+858,Senior Health Data Analyst,iCube Consulting Services,3,3,United States,UK,0,0,1,0
+861,Senior Health Data Analyst,Popular Community Bank,3,4,San Juan, PR,0,0,1,0
+862,Senior Health Data Analyst,PUTNAM RECRUITING GROUP,1,3,Unknow,UK,0,0,1,0
+866,Senior Health Data Analyst,Open Earth Foundation,1,2,Unknow,UK,0,0,1,0
+868,Senior Health Data Analyst,Digital Science,1,4,Boston, MA,0,0,1,0
+869,Senior Health Data Analyst,Simio Cloud,1,1,Westminster, CO,0,0,1,0
+872,Data Scientist / Senior Data Scientist,TikTok,3,3,Los Angeles, CA,0,0,1,0
+874,Data Scientist / Senior Data Scientist,Simio Cloud,1,1,Westminster, CO,0,0,1,0
+875,Data Scientist / Senior Data Scientist,ASU Enterprise Partners,1,2,Tempe, AZ,0,0,1,0
+877,Data Scientist / Senior Data Scientist,Blue Health Intelligence,1,3,Unknow,UK,0,0,1,0
+879,Data Scientist / Senior Data Scientist,SmartUQ,3,2,Madison, WI,0,0,1,0
+881,Data Scientist / Senior Data Scientist,Ginger,1,4,Unknow,UK,0,0,1,0
+884,Data Scientist / Senior Data Scientist,C Space,3,3,Boston, MA,0,0,1,0
+888,MATLAB & C++ Software Engineer - Data Science,Ormat Technologies,3,3,Unknow,UK,0,0,1,0
+890,MATLAB & C++ Software Engineer - Data Science,Steampunk,3,4,McLean, VA,0,0,1,0
+896,MATLAB & C++ Software Engineer - Data Science,HelioCampus,1,3,Temporarily Bethesda, MD,0,0,1,0
+904,Senior Analytics Consultant - Enterprise Analytics & Data Sc...,Certilytics,1,5,United States,UK,0,0,1,0
+906,Senior Analytics Consultant - Enterprise Analytics & Data Sc...,Pacific Investment Management Company LLC,1,3,Newport Beach, CA,0,0,1,0
+917,Government and Public Sector - Data Analytics Consultant,Cart.com,1,4,Unknow,UK,0,0,1,0
+918,Government and Public Sector - Data Analytics Consultant,Blue Health Intelligence,1,3,Unknow,UK,0,0,1,0
+919,Government and Public Sector - Data Analytics Consultant,iCube Consulting Services,3,3,United States,UK,0,0,1,0
+926,Government and Public Sector - Data Analytics Consultant,VSolvit LLC,1,4,Merrifield, VA,0,0,1,0
+928,Government and Public Sector - Data Analytics Consultant,HelioCampus,1,3,Temporarily Bethesda, MD,0,0,1,0
+929,Government and Public Sector - Data Analytics Consultant,Open Earth Foundation,1,2,Unknow,UK,0,0,1,0
+935,Senior Data Scientist I (REMOTE),APCO Worldwide,1,1,Raleigh, NC,0,0,1,0
+938,Senior Data Scientist I (REMOTE),ASU Enterprise Partners,1,2,Tempe, AZ,0,0,1,0
+941,Senior Data Scientist I (REMOTE),"CICONIX, LLC",1,2,Washington, DC,0,0,1,0
+942,Senior Data Scientist I (REMOTE),Ormat Technologies,3,3,Unknow,UK,0,0,1,0
+943,Senior Data Scientist I (REMOTE),BlackLine,1,3,Unknow,UK,0,0,1,0
+945,Data Engineers,Daugherty Business Solutions,1,3,St. Louis, MO,0,0,1,0
+947,Data Engineers,Qcentrio,2,5,Dallas, TX,0,0,1,0
+955,Data Engineers,Maven Wave,3,4,Chicago, IL,0,0,1,0
+956,Data Engineers,Honda Dev. and Mfg. of Am LLC,0,3,Marysville, OH,0,0,1,0
+958,Data Engineers,Scribd,1,5,San Francisco, CA,0,0,1,0
+960,Data Analyst (Remote),Emburse,1,2,United States,UK,0,0,1,0
+966,Data Analyst (Remote),Ormat Technologies,3,3,Unknow,UK,0,0,1,0
+967,Data Analyst (Remote),Dealer Inspire,3,4,Chicago, IL,0,0,1,0
+968,Data Analyst (Remote),CMS Energy,2,1,Jackson, MI,0,0,1,0
+975,Business Intelligence Engineer,Emburse,1,2,United States,UK,0,0,1,0
+981,Business Intelligence Engineer,Ormat Technologies,3,3,Unknow,UK,0,0,1,0
+982,Business Intelligence Engineer,Dealer Inspire,3,4,Chicago, IL,0,0,1,0
+983,Business Intelligence Engineer,CMS Energy,2,1,Jackson, MI,0,0,1,0
+987,Software Development (All Levels),Instec Corp,3,3,Unknow,UK,0,0,0,1
+990,Software Development (All Levels),United Nations Development Programme (UNDP),2,4,Unknow,UK,0,0,0,1
+998,Software Development (All Levels),Wayland Baptist University,0,1,Plainview, TX,0,0,0,1
+1016,HOUSING AND COMMUNITY DEVELOPMENT DIRECTOR,Eagle Creek Software Services,1,2,La Crosse, WI,0,0,0,1
+1019,HOUSING AND COMMUNITY DEVELOPMENT DIRECTOR,Eagle Creek Software Services,1,2,Menomonee Falls, WI,0,0,0,1
+1021,HOUSING AND COMMUNITY DEVELOPMENT DIRECTOR,Cognition Studio,3,4,Seattle, WA,0,0,0,1
+1025,HOUSING AND COMMUNITY DEVELOPMENT DIRECTOR,AMC Networks Inc.,1,3,Santa Monica, CA,0,0,0,1
+1026,HOUSING AND COMMUNITY DEVELOPMENT DIRECTOR,SoCalGas,3,5,Los Angeles, CA,0,0,0,1
+1028,HOUSING AND COMMUNITY DEVELOPMENT DIRECTOR,Mystery.org,1,1,Unknow,UK,0,0,0,1
+1032,Children's Storyteller / Script Writer,Dakota Software,1,1,Unknow,UK,0,0,0,1
+1038,Children's Storyteller / Script Writer,Accelerated Information Systems,1,1,Hicksville, NY,0,0,0,1
+1045,Children's Storyteller / Script Writer,Keyseries,1,1,North Haven, CT,0,0,0,1
+1049,Development Assistant for Development Operations,Opus Consulting Solutions,1,1,Alpharetta, GA,0,0,0,1
+1050,Development Assistant for Development Operations,"/n software, Inc.",3,1,Chapel Hill, NC,0,0,0,1
+1063,WEBMASTER TRAINEE,United Nations Development Programme (UNDP),2,1,Unknow,UK,0,0,0,1
+1066,WEBMASTER TRAINEE,Eagle Creek Software Services,1,2,Troy, MI,0,0,0,1
+1067,WEBMASTER TRAINEE,Mindbloom,1,1,Unknow,UK,0,0,0,1
+1069,WEBMASTER TRAINEE,Eagle Creek Software Services,1,2,Dubuque, IA,0,0,0,1
+1079,"Development Officer, Global FOI - US",Herzing University,0,2,Unknow,UK,0,0,0,1
+1086,"Development Officer, Global FOI - US",Love Justice International,0,2,United States,UK,0,0,0,1
+1087,"Development Officer, Global FOI - US",G5 Entertainment,3,0,Unknow,UK,0,0,0,1
+1091,Entry-Level Software Developer,"/n software, Inc.",3,1,Chapel Hill, NC,0,0,0,1
+1102,Entry-Level Software Developer,Love Justice International,0,2,United States,UK,0,0,0,1
+1104,Entry-Level Software Developer,Young Harris College,1,3,Young Harris, GA,0,0,0,1
+1110,Assistant Category Manager,FDM Group,3,2,New York, NY,0,0,0,1
+1118,Assistant Category Manager,Warner Music Group,1,1,Los Angeles, CA,0,0,0,1
+1119,Assistant Category Manager,VirginPulse,1,4,Unknow,UK,0,0,0,1
+1122,Development Officer,United Nations Development Programme (UNDP),2,1,Unknow,UK,0,0,0,1
+1134,Development Officer,WTJ Corporation,3,1,Falls Church, VA,0,0,0,1
+1135,Development Officer,FDM Group,3,2,New York, NY,0,0,0,1
+1136,"Project, Global Fan Marketing Associate",the NBA,3,1,New York, NY,0,0,0,1
+1142,"Project, Global Fan Marketing Associate",United Nations Development Programme (UNDP),2,2,Unknow,UK,0,0,0,1
+1143,"Project, Global Fan Marketing Associate",ServiceTitan,1,3,Unknow,UK,0,0,0,1
+1145,"Project, Global Fan Marketing Associate",Vibrant Credit Union,1,3,Moline, IL,0,0,0,1
+1147,"Project, Global Fan Marketing Associate",MindSeekers,3,1,Bellevue, WA,0,0,0,1
+1149,"Project, Global Fan Marketing Associate",Eagle Creek Software Services,1,2,Dubuque, IA,0,0,0,1
+1152,Junior Artworker,FDM Group,3,2,New York, NY,0,0,0,1
+1158,Junior Artworker,G5 Entertainment,3,0,Unknow,UK,0,0,0,1
+1160,Junior Artworker,Tampa Bay Rays,3,2,Saint Petersburg, FL,0,0,0,1
+1162,Junior Artworker,Garage Team Mazda,1,0,Unknow,UK,0,0,0,1
+1163,Junior Artworker,SeatGeek,1,2,Unknow,UK,0,0,0,1
+1164,Junior Artworker,Meeting Tomorrow,1,1,Unknow,UK,0,0,0,1
+1172,CREATIVE COPYWRITER,United Nations Development Programme (UNDP),2,2,Unknow,UK,0,0,0,1
+1174,CREATIVE COPYWRITER,MDfit,3,1,Wexford, PA,0,0,0,1
+1176,CREATIVE COPYWRITER,Eagle Creek Software Services,1,2,Dubuque, IA,0,0,0,1
+1177,CREATIVE COPYWRITER,Vibrant Credit Union,1,3,Moline, IL,0,0,0,1
+1181,wordpress development,absolutfit,3,1,Unknow,UK,0,0,0,1
+1182,wordpress development,United Nations Development Programme (UNDP),0,2,Unknow,UK,0,0,0,1
+1183,wordpress development,Wattpad,1,3,Los Angeles, CA,0,0,0,1
+1185,wordpress development,Agios Pharmaceuticals,1,1,Unknow,UK,0,0,0,1
+1192,wordpress development,Aspen Heights Partners,1,3,Austin, TX,0,0,0,1
+1195,wordpress development,NJI Media,1,1,Unknow,UK,0,0,0,1
+1196,Junior Developer,MDfit,3,1,Wexford, PA,0,0,0,1
+1206,Junior Developer,Mercy Corps,1,1,Seattle, WA,0,0,0,1
+1215,CREATIVE COPYWRITER,"/n software, Inc.",3,1,Chapel Hill, NC,0,0,0,1
+1217,CREATIVE COPYWRITER,Mercy Corps,1,1,Seattle, WA,0,0,0,1
+1220,CREATIVE COPYWRITER,NexInfo Solutions,1,2,Unknow,UK,0,0,0,1
+1228,Associate Director of U.S. Programs,Cars.com,3,1,Naperville, IL,0,0,0,1
+1236,Associate Director of U.S. Programs,"CIM Group, LP",1,2,Atlanta, GA,0,0,0,1
+1240,Associate Director of U.S. Programs,Catholic Charities of the Diocese of Albany,3,0,Albany, NY,0,0,0,1
+1241,Climate Risk and Early Warning Expert - IPSA12 - part-time (...,King Industries,3,1,Norwalk, CT,0,0,0,1
+1243,Climate Risk and Early Warning Expert - IPSA12 - part-time (...,United Nations Development Programme (UNDP),0,2,Unknow,UK,0,0,0,1
+1244,Climate Risk and Early Warning Expert - IPSA12 - part-time (...,Wildfire,3,2,Winston-Salem, NC,0,0,0,1
+1246,Climate Risk and Early Warning Expert - IPSA12 - part-time (...,NexInfo Solutions,1,2,Unknow,UK,0,0,0,1
+1248,Climate Risk and Early Warning Expert - IPSA12 - part-time (...,SWBC,0,1,Unknow,UK,0,0,0,1
+1249,Climate Risk and Early Warning Expert - IPSA12 - part-time (...,American Institutes for Research,1,0,Unknow,UK,0,0,0,1
+1251,Climate Risk and Early Warning Expert - IPSA12 - part-time (...,Vivid Seats,1,3,Unknow,UK,0,0,0,1
+1257,Climate Risk and Early Warning Expert - IPSA12 - part-time (...,Eagle Creek Software Services,1,2,Troy, MI,0,0,0,1
+1258,Climate Risk and Early Warning Expert - IPSA12 - part-time (...,FlexOffers.com,1,0,Unknow,UK,0,0,0,1
+1259,Climate Risk and Early Warning Expert - IPSA12 - part-time (...,Rosen Hotels & Resorts,1,3,Orlando, FL,0,0,0,1
+1261,Climate Risk and Early Warning Expert - IPSA12 - part-time (...,VirginPulse,1,4,Unknow,UK,0,0,0,1
+1262,Climate Risk and Early Warning Expert - IPSA12 - part-time (...,FDM Group,3,2,New York, NY,0,0,0,1
+1263,Climate Risk and Early Warning Expert - IPSA12 - part-time (...,Snapient,1,1,Virginia,UK,0,0,0,1
+1264,Climate Risk and Early Warning Expert - IPSA12 - part-time (...,PartsSource,1,2,Unknow,UK,0,0,0,1
+1265,Climate Risk and Early Warning Expert - IPSA12 - part-time (...,Relief International,3,0,Unknow,UK,0,0,0,1
+1266,Climate Risk and Early Warning Expert - IPSA12 - part-time (...,For You Design,0,1,Downers Grove, IL,0,0,0,1
+1269,Climate Risk and Early Warning Expert - IPSA12 - part-time (...,Detroit Tigers,3,0,Detroit, MI,0,0,0,1
+1270,Climate Risk and Early Warning Expert - IPSA12 - part-time (...,California Institute of Technology,3,1,Pasadena, CA,0,0,0,1
+1273,"Assistant Manager, US Wholesale Marketing",MIS Consulting & Sales,3,2,Unknow,UK,0,0,0,1
+1275,"Assistant Manager, US Wholesale Marketing",Thomas Safran and Associates,1,2,Los Angeles, CA,0,0,0,1
+1279,"Assistant Manager, US Wholesale Marketing",BRS,3,1,Atlanta, GA,0,0,0,1
+1281,"Assistant Manager, US Wholesale Marketing",AMC Networks Inc.,1,3,Santa Monica, CA,0,0,0,1
+1282,"Assistant Manager, US Wholesale Marketing",Temboo,3,2,New York, NY,0,0,0,1
+1285,"Assistant Manager, US Wholesale Marketing",California Institute of Technology,3,1,Pasadena, CA,0,0,0,1
+1289,UX/UI Developer,Love Justice International,0,2,United States,UK,0,0,0,1
+1291,UX/UI Developer,Columbia Southern University,3,2,Unknow,UK,0,0,0,1
+1295,UX/UI Developer,BCD Travel Corporate,1,1,Unknow,UK,0,0,0,1
+1303,"Senior Associate, Market Development and Policy, Electric Ve...",Code.org,1,1,Unknow,UK,0,0,0,1
+1305,"Senior Associate, Market Development and Policy, Electric Ve...",WH Trading,3,3,Chicago, IL,0,0,0,1
+1307,"Senior Associate, Market Development and Policy, Electric Ve...",Symetra,1,1,Bellevue, WA,0,0,0,1
+1308,"Senior Associate, Market Development and Policy, Electric Ve...",King Industries,3,1,Norwalk, CT,0,0,0,1
+1309,"Senior Associate, Market Development and Policy, Electric Ve...",PurpleBug,3,1,Energy, IL,0,0,0,1
+1312,"Senior Associate, Market Development and Policy, Electric Ve...",Agios Pharmaceuticals,1,1,Unknow,UK,0,0,0,1
+1315,"Senior Associate, Market Development and Policy, Electric Ve...",Blue Health Intelligence,1,3,Unknow,UK,0,0,0,1
+1319,PROGRAM ANALYST,3T Consulting Group,3,1,Decatur, GA,0,0,0,1
+1322,PROGRAM ANALYST,Noblis,1,1,Arlington, VA,0,0,0,1
+1323,PROGRAM ANALYST,A24 Films,3,1,Los Angeles, CA,0,0,0,1
+1324,PROGRAM ANALYST,March of Dimes Inc,1,0,United States,UK,0,0,0,1
+1325,PROGRAM ANALYST,Genesee County,3,0,City of Flint, MI,0,0,0,1
+1329,PROGRAM ANALYST,"American Public Education, Inc. Careers",1,0,Unknow,UK,0,0,0,1
+1335,Athlete Development Coordinator - Men's Basketball,C Spire,1,2,Ridgeland, MS,0,0,0,1
+1339,Athlete Development Coordinator - Men's Basketball,Mindbloom,1,1,Unknow,UK,0,0,0,1
+1342,Athlete Development Coordinator - Men's Basketball,"Associated Universities, Inc.",0,1,Unknow,UK,0,0,0,1
+1345,Athlete Development Coordinator - Men's Basketball,SwissBorg,1,1,Unknow,UK,0,0,0,1
+1346,Program Officer (Global Development),World Learning,1,3,Washington, DC,0,0,0,1
+1349,Program Officer (Global Development),PartsSource,1,2,Unknow,UK,0,0,0,1
+1351,Program Officer (Global Development),Medsphere Systems Corporation,1,1,Unknow,UK,0,0,0,1
+1353,Program Officer (Global Development),WE Communications,1,2,Albany, NY,0,0,0,1
+1354,Program Officer (Global Development),coty,3,1,New York, NY,0,0,0,1
+1356,Program Officer (Global Development),PUMA,3,1,Somerville, MA,0,0,0,1
+1357,Program Officer (Global Development),ApolloMed,1,1,Alhambra, CA,0,0,0,1
+1358,Program Officer (Global Development),"Grammarly, Inc.",3,3,Unknow,UK,0,0,0,1
+1359,Program Officer (Global Development),Plaid,1,1,Unknow,UK,0,0,0,1
+1361,Junior/Middle .NET Developer,Medsphere Systems Corporation,1,1,Unknow,UK,0,0,0,1
+1362,Junior/Middle .NET Developer,Velvetech,3,2,Northbrook, IL,0,0,0,1
+1364,Junior/Middle .NET Developer,coty,3,1,New York, NY,0,0,0,1
+1365,Junior/Middle .NET Developer,"Living Our Values, Building Our Community.",1,1,Santa Monica, CA,0,0,0,1
+1366,Junior/Middle .NET Developer,Digital Pulp,1,1,New York, NY,0,0,0,1
+1370,Junior/Middle .NET Developer,1POINT21 Interactive,3,2,San Diego, CA,0,0,0,1
+1371,Junior/Middle .NET Developer,RealPage,1,1,Richardson, TX,0,0,0,1
+1372,Junior/Middle .NET Developer,BRS,3,1,Atlanta, GA,0,0,0,1
+1373,Junior/Middle .NET Developer,Oozle Media,3,1,Sandy, UT,0,0,0,1
+1374,Junior/Middle .NET Developer,ArtVersion,1,1,Chicago, IL,0,0,0,1
+1375,Junior/Middle .NET Developer,Rhino New York,1,1,Unknow,UK,0,0,0,1
+1377,Creative Resource Manager,WE Communications,1,2,Albany, NY,0,0,0,1
+1378,Creative Resource Manager,MultiTracks.com,3,1,Cedar Park, TX,0,0,0,1
+1382,Creative Resource Manager,Cradlepoint,1,1,Boise, ID,0,0,0,1
+1384,Creative Resource Manager,WH Trading,3,3,Chicago, IL,0,0,0,1
+1387,Creative Resource Manager,"Living Our Values, Building Our Community.",1,1,Santa Monica, CA,0,0,0,1
+1388,Creative Resource Manager,Infodatix,3,1,Provo, UT,0,0,0,1
+1389,Creative Resource Manager,Coldsmoke,3,2,Unknow,UK,0,0,0,1
+1390,Creative Resource Manager,3T Consulting Group,3,1,Decatur, GA,0,0,0,1
+1392,"Sr. LXD, Executive Development Learning Design",King Industries,3,1,Norwalk, CT,0,0,0,1
+1393,"Sr. LXD, Executive Development Learning Design",MultiTracks.com,3,1,Cedar Park, TX,0,0,0,1
+1394,"Sr. LXD, Executive Development Learning Design",VirginPulse,1,4,Unknow,UK,0,0,0,1
+1396,"Sr. LXD, Executive Development Learning Design",Bundle Benefits,2,1,Unknow,UK,0,0,0,1
+1401,"Sr. LXD, Executive Development Learning Design",United Nations Development Programme (UNDP),2,1,Unknow,UK,0,0,0,1
+1404,"Sr. LXD, Executive Development Learning Design",WH Trading,3,3,Chicago, IL,0,0,0,1
+1406,Junior Developer - Python,"American Public Education, Inc. Careers",1,0,Unknow,UK,0,0,0,1
+1407,Junior Developer - Python,Akuna Capital,3,2,Chicago, IL,0,0,0,1
+1408,Junior Developer - Python,C Spire,1,2,Ridgeland, MS,0,0,0,1
+1415,Junior Developer - Python,Ascend Learning,1,4,Leawood, KS,0,0,0,1
+1416,Junior Developer - Python,DraftKings,1,3,Unknow,UK,0,0,0,1
+1419,Junior Developer - Python,SPMB,1,1,Unknow,UK,0,0,0,1
+1422,"Vice President, Facilities & Campus Development",Berkley,1,3,Manassas, VA,0,0,0,1
+1426,"Vice President, Facilities & Campus Development",C Spire,1,2,Ridgeland, MS,0,0,0,1
+1429,"Vice President, Facilities & Campus Development",Tervis,1,1,North Venice, FL,0,0,0,1
+1430,"Vice President, Facilities & Campus Development",SwissBorg,1,1,Unknow,UK,0,0,0,1
+1438,Director of Development,HRDQ,1,1,Unknow,UK,0,0,0,1
+1439,Director of Development,RealPage,1,1,Richardson, TX,0,0,0,1
+1440,Director of Development,Wildfire,3,2,Winston-Salem, NC,0,0,0,1
+1443,Director of Development,A24 Films,3,1,Los Angeles, CA,0,0,0,1
+1446,Director of Development,NJI MEDIA,3,2,Alexandria, VA,0,0,0,1
+1447,Director of Development,Randall-Reilly,1,1,Georgia,UK,0,0,0,1
+1449,Director of Development,High Point University,1,1,High Point, NC,0,0,0,1
+1451,Integration Analyst,ApolloMed,1,1,Unknow,UK,0,0,0,1
+1452,Integration Analyst,Curaleaf,3,4,New York, NY,0,0,0,1
+1457,Integration Analyst,Hasbro,3,2,New York, NY,0,0,0,1
+1458,Integration Analyst,Hallmark Aviation Services,0,0,Los Angeles, CA,0,0,0,1
+1461,Integration Analyst,Shaklee,3,1,Unknow,UK,0,0,0,1
+1462,Integration Analyst,A24 Films,3,1,Los Angeles, CA,0,0,0,1
+1463,Integration Analyst,Imagine Learning,1,1,Montgomery, AL,0,0,0,1
+1464,Integration Analyst,Ascend Learning,1,4,Leawood, KS,0,0,0,1
+1465,Integration Analyst,HartLed,3,0,Unknow,UK,0,0,0,1
+1467,IT Application Development – Entry (DOH6537) Project,Ryan Wilson Group,3,1,Anaheim, CA,0,0,0,1
+1470,IT Application Development – Entry (DOH6537) Project,Lyra Health,1,2,Burlingame, CA,0,0,0,1
+1471,IT Application Development – Entry (DOH6537) Project,PETA Foundation,1,0,Unknow,UK,0,0,0,1
+1474,IT Application Development – Entry (DOH6537) Project,Parachute Health,1,2,United States,UK,0,0,0,1
+1475,IT Application Development – Entry (DOH6537) Project,Hallmark Aviation Services,0,0,Los Angeles, CA,0,0,0,1
+1476,IT Application Development – Entry (DOH6537) Project,CareSource,1,2,Unknow,UK,0,0,0,1
+1477,IT Application Development – Entry (DOH6537) Project,Rosen Hotels & Resorts,1,3,Orlando, FL,0,0,0,1
+1479,IT Application Development – Entry (DOH6537) Project,ON24,1,3,Unknow,UK,0,0,0,1
+1482,Advisor,"Press Ganey Associates, Inc.",3,1,Unknow,UK,0,0,0,1
+1486,Advisor,the NBA,3,1,New York, NY,0,0,0,1
+1487,Advisor,Webster University,3,0,St. Louis, MO,0,0,0,1
+1489,Advisor,"Samtec, Inc",1,2,New Albany, IN,0,0,0,1
+1492,Advisor,Detroit Tigers,3,0,Detroit, MI,0,0,0,1
+1506,"National Director, University Partnerships",BCD Travel Corporate,1,1,Unknow,UK,0,0,0,1
+1507,"National Director, University Partnerships",Ryan Wilson Group,3,1,Anaheim, CA,0,0,0,1
+1527,Software Development Engineer,United Nations Development Programme (UNDP),2,1,Unknow,UK,0,0,0,1
+1529,Software Development Engineer,Orlando Magic,1,1,Orlando, FL,0,0,0,1
+1532,Software Development Engineer,Katherine Delmar Burke School,3,1,United States,UK,0,0,0,1
+1535,Software Development Engineer,"Mastery Logistics Systems, Inc.",3,3,Unknow,UK,0,0,0,1
+1537,Software Development Engineer,Zignal Labs,1,1,New York, NY,0,0,0,1
+1541,Virtual College Success Advisor,Bottom Line,1,0,Unknow,UK,0,0,0,1
+1544,Virtual College Success Advisor,Rosen Hotels & Resorts,1,3,Orlando, FL,0,0,0,1
+1548,Virtual College Success Advisor,"Vox Media, LLC",1,2,New York, NY,0,0,0,1
+1551,Virtual College Success Advisor,Dakota Software,1,1,Unknow,UK,0,0,0,1
+1558,IT Development Manager,SwissBorg,1,1,Unknow,UK,0,0,0,1
+1560,IT Development Manager,Federal Reserve Bank of St. Louis,1,3,St. Louis, MO,0,0,0,1
+1562,IT Development Manager,Eagle Creek Software Services,1,2,Troy, MI,0,0,0,1
+1565,IT Development Manager,Spaces,1,0,New York, NY,0,0,0,1
+1568,IT Development Manager,NexInfo Solutions,1,2,Unknow,UK,0,0,0,1
+1569,IT Development Manager,American Museum of Natural History,1,1,New York, NY,0,0,0,1
+1573,Ukraine Fast-Track Application,Eagle Creek Software Services,1,2,Troy, MI,0,0,0,1
+1577,Ukraine Fast-Track Application,United Nations Development Programme (UNDP),2,1,Unknow,UK,0,0,0,1
+1580,Ukraine Fast-Track Application,SwissBorg,1,1,Unknow,UK,0,0,0,1
+1591,Content Specialist - English Language Learners (12 Month Lim...,SPMB,1,1,Unknow,UK,0,0,0,1
+1596,Content Specialist - English Language Learners (12 Month Lim...,A24 Films,3,1,Los Angeles, CA,0,0,0,1
+1599,Content Specialist - English Language Learners (12 Month Lim...,Spruce Technology,3,3,Unknow,UK,0,0,0,1
+1602,"Supervisor, Security & Content Protection","Press Ganey Associates, Inc.",3,1,Unknow,UK,0,0,0,1
+1610,"Supervisor, Security & Content Protection","Employment Opportunities at BuzzFeed, Inc.",3,3,Los Angeles, CA,0,0,0,1
+1613,"Supervisor, Security & Content Protection",High Point University,1,1,High Point, NC,0,0,0,1
+1618,"Fashion Specialist, Fashion Data Services",The Museum of Modern Art,1,1,New York, NY,0,0,0,1
+1619,"Fashion Specialist, Fashion Data Services",WTJ Corporation,3,1,Falls Church, VA,0,0,0,1
+1623,"Fashion Specialist, Fashion Data Services",BookNook,1,0,Unknow,UK,0,0,0,1
+1624,"Fashion Specialist, Fashion Data Services","Grammarly, Inc.",3,3,Unknow,UK,0,0,0,1
+1627,"Fashion Specialist, Fashion Data Services",Sesame Workshop,1,4,New York, NY,0,0,0,1
+1628,"Fashion Specialist, Fashion Data Services","Strategic Resources, Inc.",1,1,Unknow,UK,0,0,0,1
+1632,Talent Operations Coordinator (Remote),Oriental Bank in San Juan,1,2,San Juan, PR,0,0,0,1
+1633,Talent Operations Coordinator (Remote),Goodwill Industries of Southeastern Wisconsin &...,1,1,Milwaukee, WI,0,0,0,1
+1639,Talent Operations Coordinator (Remote),LeewayHertz,1,2,San Francisco, CA,0,0,0,1
+1644,Talent Operations Coordinator (Remote),Snapient,1,1,Virginia,UK,0,0,0,1
+1646,Development Consultant,American Heart Association,1,3,Little Rock, AR,0,0,0,1
+1647,Development Consultant,United Jewish Appeal-Fed of Jewish,1,1,New York, NY,0,0,0,1
+1649,Development Consultant,BookNook,1,0,Unknow,UK,0,0,0,1
+1650,Development Consultant,"D. E. Shaw & Co., L.P.",3,1,New York, NY,0,0,0,1
+1651,Development Consultant,Management Concepts,2,2,United States,UK,0,0,0,1
+1654,Development Consultant,SogoTrade,3,2,New York, NY,0,0,0,1
+1660,Development Consultant,CareSource,1,2,Unknow,UK,0,0,0,1
+1664,Deputy Director for Strategic Development and Communications,Archdiocese of New York,3,1,New York, NY,0,0,0,1
+1665,Deputy Director for Strategic Development and Communications,StraighterLine,0,1,Unknow,UK,0,0,0,1
+1666,Deputy Director for Strategic Development and Communications,PROMENET,1,2,New York, NY,0,0,0,1
+1667,Deputy Director for Strategic Development and Communications,American Institutes for Research,1,2,Unknow,UK,0,0,0,1
+1668,Deputy Director for Strategic Development and Communications,Lyra Health,1,2,Burlingame, CA,0,0,0,1
+1672,Deputy Director for Strategic Development and Communications,"D. E. Shaw & Co., L.P.",3,1,New York, NY,0,0,0,1
+1676,Professional Development Assistant,Sidley Austin LLP,1,1,New York, NY,0,0,0,1
+1683,Professional Development Assistant,OtterTune,1,1,Unknow,UK,0,0,0,1
+1684,Professional Development Assistant,Rhino New York,1,1,Unknow,UK,0,0,0,1
+1685,Professional Development Assistant,Mind the Gap,1,2,Unknow,UK,0,0,0,1
+1689,Professional Development Assistant,PartsSource,1,2,Unknow,UK,0,0,0,1
+1691,OSINT Analyst,Zignal Labs,1,1,New York, NY,0,0,0,1
+1692,OSINT Analyst,Goodwill Industries of Southeastern Wisconsin &...,1,1,Milwaukee, WI,0,0,0,1
+1695,OSINT Analyst,PartsSource,1,2,Unknow,UK,0,0,0,1
+1697,OSINT Analyst,Abilene Christian University,1,1,Unknow,UK,0,0,0,1
+1698,OSINT Analyst,Snapient,1,1,Virginia,UK,0,0,0,1
+1699,OSINT Analyst,"Strategic Resources, Inc.",1,1,Unknow,UK,0,0,0,1
+1701,OSINT Analyst,Transparent Language,1,0,United States,UK,0,0,0,1
+1711,Student Advocate (11-Month),American Museum of Natural History,1,1,New York, NY,0,0,0,1
+1720,Student Advocate (11-Month),Spaces,1,0,New York, NY,0,0,0,1
+1723,Channel Development Manager,VarPhonex,3,2,Miami, FL,0,0,0,1
+1725,Channel Development Manager,Spaces,1,0,New York, NY,0,0,0,1
+1726,Channel Development Manager,BCD Travel Corporate,1,1,Unknow,UK,0,0,0,1
+1732,Channel Development Manager,EBS (Educational Based Services),3,2,West Chester, PA,0,0,0,1
+1735,Channel Development Manager,DCCC,3,1,Unknow,UK,0,0,0,1
+1741,Junior Developer - Python,HASH,3,2,Unknow,UK,0,0,0,1
+1745,Junior Developer - Python,California Institute of Technology,1,2,Pasadena, CA,0,0,0,1
+1748,Junior Developer - Python,Berlitz,0,1,New York, NY,0,0,0,1
+1751,Commercial Manager,American Lung Association,1,0,Chicago, IL,0,0,0,1
+1758,Commercial Manager,"D. E. Shaw & Co., L.P.",3,1,New York, NY,0,0,0,1
+1759,Commercial Manager,CareSource,1,2,Unknow,UK,0,0,0,1
+1760,Commercial Manager,Alzheimer's Association,1,1,Chicago, IL,0,0,0,1
+1763,Commercial Manager,NCube,3,1,Unknow,UK,0,0,0,1
+1768,"Analyst, Ecommerce","Vox Media, LLC",1,2,New York, NY,0,0,0,1
+1772,"Analyst, Ecommerce",High Point University,1,1,High Point, NC,0,0,0,1
+1774,"Analyst, Ecommerce",Public Consulting Group,1,1,United States,UK,0,0,0,1
+1780,"Analyst, Ecommerce",Environmental Defense Fund,1,5,New York, NY,0,0,0,1
+1781,Managing Director Workforce Development,Heartland Alliance,1,3,Chicago, IL,0,0,0,1
+1782,Managing Director Workforce Development,Alzheimer's Association,1,1,Chicago, IL,0,0,0,1
+1788,Managing Director Workforce Development,"D. E. Shaw & Co., L.P.",3,1,New York, NY,0,0,0,1
+1790,Managing Director Workforce Development,Golin,3,1,New York, NY,0,0,0,1
+1791,Managing Director Workforce Development,G5 Entertainment,3,1,Unknow,UK,0,0,0,1
+1792,Managing Director Workforce Development,Warner Music Group,1,1,Los Angeles, CA,0,0,0,1
+1794,Managing Director Workforce Development,Room to Read,1,3,Unknow,UK,0,0,0,1
+1795,Managing Director Workforce Development,Center For Policing Equity,1,3,Unknow,UK,0,0,0,1
+1796,Epic Application Development Advisor-Work from Home,United Nations Development Programme (UNDP),2,0,Unknow,UK,0,0,0,1
+1798,Epic Application Development Advisor-Work from Home,Cystic Fibrosis Foundation,1,1,Palm Beach, FL,0,0,0,1
+1799,Epic Application Development Advisor-Work from Home,Valkyrie Trading,1,1,Chicago, IL,0,0,0,1
+1800,Epic Application Development Advisor-Work from Home,Ameresco,1,0,Unknow,UK,0,0,0,1
+1809,Epic Application Development Advisor-Work from Home,Flagstar Bank,1,2,Troy, MI,0,0,0,1
+1816,HOUSING AND COMMUNITY DEVELOPMENT DIRECTOR,Environmental Defense Fund,1,5,New York, NY,0,0,0,1
+1821,HOUSING AND COMMUNITY DEVELOPMENT DIRECTOR,Protect Democracy,1,1,Unknow,UK,0,0,0,1
+1823,HOUSING AND COMMUNITY DEVELOPMENT DIRECTOR,Transparent Language,1,0,United States,UK,0,0,0,1
+1824,HOUSING AND COMMUNITY DEVELOPMENT DIRECTOR,PEOPLE INC.,1,1,Amherst, NY,0,0,0,1
+1825,HOUSING AND COMMUNITY DEVELOPMENT DIRECTOR,Core Spaces,1,3,Chicago, IL,0,0,0,1
+1827,"Coordinator, DEI","Sylvan Road Capital, LLC",1,0,Unknow,UK,0,0,0,1
+1831,"Coordinator, DEI",Lionheart Children's Academy,1,1,Dallas-Fort Worth, TX,0,0,0,1
+1832,"Coordinator, DEI",Thomas Safran and Associates,1,2,Los Angeles, CA,0,0,0,1
+1833,"Coordinator, DEI",Transparent Language,1,0,United States,UK,0,0,0,1
+1840,"Coordinator, DEI",ERM Group,1,2,Manhattan, NY,0,0,0,1
+1842,Business Development Representative,Spotify,3,3,New York, NY,0,0,0,1
+1843,Business Development Representative,United Nations Development Programme (UNDP),2,2,Unknow,UK,0,0,0,1
+1847,Business Development Representative,Goodwill Industries of Southeastern Wisconsin &...,1,1,Milwaukee, WI,0,0,0,1
+1848,Business Development Representative,VSP Global,1,1,New York, NY,0,0,0,1
+1853,Business Development Representative,The Fedcap Group,1,1,New York, NY,0,0,0,1
+1861,COLLEGE DEVELOPMENT PROGRAM,Camelback Ventures,1,1,Unknow,UK,0,0,0,1
+1866,COLLEGE DEVELOPMENT PROGRAM,the NBA,3,3,Secaucus, NJ,0,0,0,1
+1867,COLLEGE DEVELOPMENT PROGRAM,Sacred Heart Schools,3,0,Chicago, IL,0,0,0,1
+1868,COLLEGE DEVELOPMENT PROGRAM,Sidley Austin LLP,1,1,New York, NY,0,0,0,1
+1880,Program Manager,Room to Read,1,3,Unknow,UK,0,0,0,1
+1882,Program Manager,Save the Children,1,3,Orangeburg, SC,0,0,0,1
+1891,"Manager, Business Development",V3Main Technologies Inc.,3,1,Houston, TX,0,0,0,1
+1895,"Manager, Business Development",OtterTune,1,1,Unknow,UK,0,0,0,1
+1896,"Manager, Business Development",Valkyrie Trading,1,1,Chicago, IL,0,0,0,1
+1899,"Manager, Business Development",JDRF International,1,1,Seattle, WA,0,0,0,1
+1902,Facilitator (Staff),Student Leadership Network Inc,1,1,New York, NY,0,0,0,1
+1903,Facilitator (Staff),BAAF,3,1,Unknow,UK,0,0,0,1
+1906,Facilitator (Staff),ENDEAVORS,3,0,Pecos, TX,0,0,0,1
+1907,Facilitator (Staff),Winston & Strawn,3,1,Chicago, IL,0,0,0,1
+1909,Facilitator (Staff),IMT Insurance,3,2,Omaha, NE,0,0,0,1
+1911,Facilitator (Staff),Kinetix,3,1,Unknow,UK,0,0,0,1
+1912,Facilitator (Staff),American Heart Association,1,2,Chicago, IL,0,0,0,1
+1914,Facilitator (Staff),Sentry Insurance,1,1,Stevens Point, WI,0,0,0,1
+1917,Social Media Coordinator,Flagstar Bank,1,2,Troy, MI,0,0,0,1
+1925,Social Media Coordinator,IPG Mediabrands,3,0,New York, NY,0,0,0,1
+1928,Social Media Coordinator,NCube,3,1,Unknow,UK,0,0,0,1
+1936,Fashion Assistant,CareSource,1,2,Unknow,UK,0,0,0,1
+1938,Fashion Assistant,BAAF,3,1,Unknow,UK,0,0,0,1
+1940,Fashion Assistant,American Institutes for Research,1,4,Unknow,UK,0,0,0,1
+1942,Fashion Assistant,W. L. Gore & Associates,1,2,Elkton, MD,0,0,0,1
+1943,Fashion Assistant,American Heart Association,1,2,Chicago, IL,0,0,0,1
+1947,Learning and Development Coordinator,American Heart Association,1,2,Chicago, IL,0,0,0,1
+1951,Learning and Development Coordinator,SANS Global Technologies,1,1,Houston, TX,0,0,0,1
+1956,Learning and Development Coordinator,Public Consulting Group,1,1,United States,UK,0,0,0,1
+1957,Learning and Development Coordinator,Flagstar Bank,1,2,Troy, MI,0,0,0,1
+1960,Learning and Development Coordinator,NCube,3,1,Unknow,UK,0,0,0,1
+1962,Assistant Research Data Analyst,Blizzard Entertainment,2,1,Irvine, CA,1,0,0,0
+1964,Assistant Research Data Analyst,SunPower,3,2,Unknow,UK,1,0,0,0
+1972,Assistant Research Data Analyst,Internews,3,1,Unknow,UK,1,0,0,0
+1976,Health Policy Analyst,ORAU,0,1,Baltimore, MD,1,0,0,0
+1980,Health Policy Analyst,SEIU 775 Benefits Group,1,2,Seattle, WA,1,0,0,0
+1989,Health Policy Analyst,EAB,1,1,Unknow,UK,1,0,0,0
+1997,Data Analyst,CSCI Consulting,1,2,Unknow,UK,1,0,0,0
+1999,Data Analyst,Digimarc,1,1,Beaverton, OR,1,0,0,0
+2000,Data Analyst,Delta Dental Ins.,1,1,Unknow,UK,1,0,0,0
+2001,Data Analyst,KCAS,1,1,Unknow,UK,1,0,0,0
+2004,Data Analyst,Zilliant,1,2,Unknow,UK,1,0,0,0
+2006,Junior Analyst,Humanity,1,1,Chicago, IL,1,0,0,0
+2009,Junior Analyst,ACLU,1,1,New York, NY,1,0,0,0
+2015,Junior Analyst,VNS Health,1,1,Manhattan, NY,1,0,0,0
+2018,Junior Analyst,RealPage,1,1,Richardson, TX,1,0,0,0
+2019,Junior Analyst,Food52,1,2,Unknow,UK,1,0,0,0
+2021,Data Analyst,Shaker,3,2,Unknow,UK,1,0,0,0
+2022,Data Analyst,Bluecore,3,2,Unknow,UK,1,0,0,0
+2024,Data Analyst,TMF Health Quality Institute,1,1,Unknow,UK,1,0,0,0
+2028,Data Analyst,Food52,1,2,Unknow,UK,1,0,0,0
+2029,Data Analyst,Craneware,1,2,Unknow,UK,1,0,0,0
+2033,Data Analyst,New York Medical College,1,1,Valhalla, NY,1,0,0,0
+2035,Data Analyst,Agama Solutions,1,2,Unknow,UK,1,0,0,0
+2039,Data Analyst,Agama Solutions,2,1,Unknow,UK,1,0,0,0
+2041,Data Analyst,Coordinated Care Services Inc,1,1,Rochester, NY,1,0,0,0
+2042,Data Analyst,Albertus Magnus College,1,1,New Haven, CT,1,0,0,0
+2043,Data Analyst,Asendia Management SAS,1,1,Unknow,UK,1,0,0,0
+2047,Data Analyst,NexInfo Solutions,1,2,Unknow,UK,1,0,0,0
+2050,Data Analyst,"Gametime United, Inc.",1,1,Unknow,UK,1,0,0,0
+2051,Research Data Analyst Associate,Baldwin Risk Partners,1,4,Unknow,UK,1,0,0,0
+2058,Research Data Analyst Associate,Logikcull,1,2,Unknow,UK,1,0,0,0
+2064,Research Data Analyst Associate,VNS Health,1,1,Manhattan, NY,1,0,0,0
+2066,Data Analyst,Elkay Manufacturing,1,2,Ogden, UT,1,0,0,0
+2068,Data Analyst,Humanity,1,0,St. Louis, MO,1,0,0,0
+2075,Data Analyst,BairesDev,3,2,Los Angeles, CA,1,0,0,0
+2078,Data Analyst,TikTok,3,2,Seattle, WA,1,0,0,0
+2086,Connected Vehicle Data Analyst,TechTarget,1,1,Unknow,UK,1,0,0,0
+2087,Connected Vehicle Data Analyst,TikTok,3,2,Seattle, WA,1,0,0,0
+2089,Connected Vehicle Data Analyst,Salesloft,3,3,New York, NY,1,0,0,0
+2090,Connected Vehicle Data Analyst,BairesDev,3,2,Los Angeles, CA,1,0,0,0
+2092,Connected Vehicle Data Analyst,"Gametime United, Inc.",1,1,Unknow,UK,1,0,0,0
+2094,Connected Vehicle Data Analyst,Logikcull,1,2,Unknow,UK,1,0,0,0
+2095,Connected Vehicle Data Analyst,Shaker,3,2,Unknow,UK,1,0,0,0
+2100,Strategy Analyst,WebBank,3,2,Summit, NJ,1,0,0,0
+2104,Strategy Analyst,Ivy Rehab,1,1,Brooklyn, NY,1,0,0,0
+2109,Strategy Analyst,Mark Anthony Brewing Inc.,1,2,Chicago, IL,1,0,0,0
+2111,Data Analyst,VNS Health,1,1,Manhattan, NY,1,0,0,0
+2114,Data Analyst,"Amyris, Inc.",1,1,Unknow,UK,1,0,0,0
+2117,Data Analyst,Unis Company,3,1,Buena Park, CA,1,0,0,0
+2122,Data Analyst,Simplicity Consulting,1,2,Kirkland, WA,1,0,0,0
+2125,Data Analyst,Olink,3,1,Waltham, MA,1,0,0,0
+2128,"Youth Apprentice, Data Analytics Associate, Amazon Jump Star...",Intone Networks,2,3,Unknow,UK,1,0,0,0
+2129,"Youth Apprentice, Data Analytics Associate, Amazon Jump Star...",CME Management,3,2,Chicago, IL,1,0,0,0
+2133,"Youth Apprentice, Data Analytics Associate, Amazon Jump Star...",Linesight,3,1,Seattle, WA,1,0,0,0
+2135,"Youth Apprentice, Data Analytics Associate, Amazon Jump Star...","Amyris, Inc.",1,1,Unknow,UK,1,0,0,0
+2138,"Youth Apprentice, Data Analytics Associate, Amazon Jump Star...",The Parking Spot,1,2,Chicago, IL,1,0,0,0
+2139,"Youth Apprentice, Data Analytics Associate, Amazon Jump Star...",Omni Air International,1,1,Tulsa, OK,1,0,0,0
+2141,Lab Reporting Analyst (CalREDIE) (Remote),The Parking Spot,1,2,Chicago, IL,1,0,0,0
+2142,Lab Reporting Analyst (CalREDIE) (Remote),Heluna Health,1,0,United States,UK,1,0,0,0
+2147,Lab Reporting Analyst (CalREDIE) (Remote),Frontdoor,1,2,Denver, CO,1,0,0,0
+2148,Lab Reporting Analyst (CalREDIE) (Remote),HealthVerity,1,2,Unknow,UK,1,0,0,0
+2149,Lab Reporting Analyst (CalREDIE) (Remote),TMF Health Quality Institute,1,2,Unknow,UK,1,0,0,0
+2150,Lab Reporting Analyst (CalREDIE) (Remote),Lunge Marketing,3,1,Redmond, WA,1,0,0,0
+2151,Lab Reporting Analyst (CalREDIE) (Remote),Humanity,1,1,Chicago, IL,1,0,0,0
+2152,Lab Reporting Analyst (CalREDIE) (Remote),RELATION INSURANCE INC,1,1,Unknow,UK,1,0,0,0
+2153,Lab Reporting Analyst (CalREDIE) (Remote),Bamboo Health,1,3,Unknow,UK,1,0,0,0
+2156,Data Analyst,GSN Games,1,2,Unknow,UK,1,0,0,0
+2160,Data Analyst,Heluna Health,1,0,United States,UK,1,0,0,0
+2162,Data Analyst,Omni Air International,1,1,Tulsa, OK,1,0,0,0
+2164,Data Analyst,Level Ex,3,3,Unknow,UK,1,0,0,0
+2165,Data Analyst,Major League Baseball,3,0,New York, NY,1,0,0,0
+2166,Data Analyst,HealthVerity,1,2,Unknow,UK,1,0,0,0
+2167,Data Analyst,Cognizant Microsoft Business Group,3,2,Chicago, IL,1,0,0,0
+2172,Asst Dir- Data Analyst,Orlando Pride,3,1,Sanford, FL,1,0,0,0
+2175,Asst Dir- Data Analyst,TechTarget,1,1,Unknow,UK,1,0,0,0
+2176,Asst Dir- Data Analyst,Nikkiso Cryogenic Industries,3,2,Unknow,UK,1,0,0,0
+2178,Asst Dir- Data Analyst,Decide,1,2,Unknow,UK,1,0,0,0
+2182,Asst Dir- Data Analyst,Unis Company,3,1,Buena Park, CA,1,0,0,0
+2187,Sr Data Analyst,NYC KIDS RISE,1,1,Temporarily Long Island City, NY,1,0,0,0
+2190,Sr Data Analyst,ProductBoard,0,1,Unknow,UK,1,0,0,0
+2194,Sr Data Analyst,Heluna Health,1,0,United States,UK,1,0,0,0
+2198,Sr Data Analyst,"Dovel Technologies, LLC",1,2,Bethesda, MD,1,0,0,0
+2200,Sr Data Analyst,TechTarget,1,1,Unknow,UK,1,0,0,0
+2208,Population Health Data Analyst,Made Renovation,3,2,Unknow,UK,1,0,0,0
+2209,Population Health Data Analyst,Verint Systems Inc.,1,1,Unknow,UK,1,0,0,0
+2210,Population Health Data Analyst,TechTarget,1,1,Unknow,UK,1,0,0,0
+2211,Population Health Data Analyst,Polk State College,1,1,Winter Haven, FL,1,0,0,0
+2219,Data Analyst (Swarm),International Community Health Services,1,2,Seattle, WA,1,0,0,0
+2220,Data Analyst (Swarm),"Vanda Pharmaceuticals, Inc.",1,2,Washington, DC,1,0,0,0
+2222,Data Analyst (Swarm),Lakeview Loan Servicing,1,2,Fort Lauderdale, FL,1,0,0,0
+2224,Data Analyst (Swarm),Baldwin Risk Partners,1,1,Unknow,UK,1,0,0,0
+2225,Data Analyst (Swarm),Orlando Pride,3,1,Sanford, FL,1,0,0,0
+2227,Data Analyst (Swarm),CME Management,3,2,Chicago, IL,1,0,0,0
+2229,Data Analyst (Swarm),"Preferred Credit, Inc.",1,1,Saint Cloud, MN,1,0,0,0
+2230,Data Analyst (Swarm),Relation Insurance,3,1,Unknow,UK,1,0,0,0
+2231,Data Analyst,Talent Table,2,2,Unknow,UK,1,0,0,0
+2234,Data Analyst,Surya Systems,3,3,Temporarily San Francisco, CA,1,0,0,0
+2236,Data Analyst,Lakeview Loan Servicing,1,2,Fort Lauderdale, FL,1,0,0,0
+2237,Data Analyst,"Spinnaker Consulting Group, LLC",3,3,Unknow,UK,1,0,0,0
+2240,Data Analyst,International Community Health Services,1,2,Seattle, WA,1,0,0,0
+2242,Data Analyst,Intelligent Medical Objects,1,2,Unknow,UK,1,0,0,0
+2243,Data Analyst,SKYGEN USA,1,2,Unknow,UK,1,0,0,0
+2244,Data Analyst,Baldwin Risk Partners,1,1,Unknow,UK,1,0,0,0
+2246,Jr. Servicing Data Analyst,Union Home Mortgage,1,1,Strongsville, OH,1,0,0,0
+2247,Jr. Servicing Data Analyst,"Dovel Technologies, LLC",1,2,Bethesda, MD,1,0,0,0
+2250,Jr. Servicing Data Analyst,International Community Health Services,1,2,Seattle, WA,1,0,0,0
+2258,Jr. Servicing Data Analyst,SKYGEN USA,1,2,Unknow,UK,1,0,0,0
+2261,Data Specialist,California Institute of Technology,1,1,Pasadena, CA,1,0,0,0
+2264,Data Specialist,"RER SOLUTIONS, INC",1,2,Washington, DC,1,0,0,0
+2266,Data Specialist,Schnucks,1,2,St. Louis, MO,1,0,0,0
+2267,Data Specialist,Campaign Stars,0,1,Oakland, CA,1,0,0,0
+2271,Data Specialist,Red Gold,1,1,Elwood, IN,1,0,0,0
+2273,Data Specialist,f5,1,3,Seattle, WA,1,0,0,0
+2276,Data Analyst,"Zoom Video Communications, Inc.",1,2,Austin, TX,1,0,0,0
+2282,Data Analyst,f5,1,3,Seattle, WA,1,0,0,0
+2283,Data Analyst,Humanity,1,2,Denver, CO,1,0,0,0
+2286,Data Analyst,Versant Health,1,1,Unknow,UK,1,0,0,0
+2288,Data Analyst,StraighterLine,1,2,Unknow,UK,1,0,0,0
+2294,"Sr Data Analyst, Marketing Operations",Tra'Bian Enterprises,2,2,Harrisburg, PA,1,0,0,0
+2295,"Sr Data Analyst, Marketing Operations",GlossGenius,3,2,New York, NY,1,0,0,0
+2302,"Sr Data Analyst, Marketing Operations",FliptRx,3,3,Jersey City, NJ,1,0,0,0
+2305,"Sr Data Analyst, Marketing Operations",Frontdoor,1,2,Denver, CO,1,0,0,0
+2306,Data Science Analyst,CME Management,3,2,Chicago, IL,1,0,0,0
+2307,Data Science Analyst,"RER SOLUTIONS, INC",1,2,Washington, DC,1,0,0,0
+2310,Data Science Analyst,Surya Systems,3,3,Temporarily San Francisco, CA,1,0,0,0
+2311,Data Science Analyst,Baldwin Risk Partners,1,1,Unknow,UK,1,0,0,0
+2315,Data Science Analyst,Dopple,1,2,New York, NY,1,0,0,0
+2316,Data Science Analyst,ProductBoard,0,1,Unknow,UK,1,0,0,0
+2317,Data Science Analyst,Tarrant County Homeless Coalition,3,1,Fort Worth, TX,1,0,0,0
+2323,Data Analyst,Red Gold,1,1,Elwood, IN,1,0,0,0
+2325,Data Analyst,Brown University,1,1,Providence, RI,1,0,0,0
+2327,Data Analyst,Akraya Inc.,1,4,Palo Alto, CA,1,0,0,0
+2329,Data Analyst,Enveyo,3,2,Provo, UT,1,0,0,0
+2330,Data Analyst,Schnucks,1,2,St. Louis, MO,1,0,0,0
+2332,Data Analyst,Agama Solutions,1,2,McLean, VA,1,0,0,0
+2336,Data Analyst,Reorg Research,1,1,Unknow,UK,1,0,0,0
+2337,Data Analyst,"William E. Wecker Associates, Inc.",3,1,Jackson, WY,1,0,0,0
+2340,Data Analyst,The Institutes,1,2,Unknow,UK,1,0,0,0
+2341,Data Analyst,Clearwave Fiber LLC,1,1,Unknow,UK,1,0,0,0
+2342,Data Analyst,Tra'Bian Enterprises,2,2,Harrisburg, PA,1,0,0,0
+2345,Data Analyst,Beazley,3,2,United States,UK,1,0,0,0
+2349,Data Analyst,Qcentrio,2,2,United States,UK,1,0,0,0
+2352,Data & Reporting Analyst,Group O,1,1,San Antonio, TX,1,0,0,0
+2356,Data & Reporting Analyst,The University of Tulsa,3,1,Tulsa, OK,1,0,0,0
+2358,Data & Reporting Analyst,PKF O'Connor Davies TalentConnect,1,1,White Plains, NY,1,0,0,0
+2359,Data & Reporting Analyst,Simulmedia,1,2,New York, NY,1,0,0,0
+2360,Data & Reporting Analyst,Zuora,3,3,Redwood City, CA,1,0,0,0
+2365,Data & Reporting Analyst,CME Management,3,2,Chicago, IL,1,0,0,0
+2367,Data Analyst,BCD Travel Corporate,1,2,Austin, TX,1,0,0,0
+2368,Data Analyst,The Trustees of Tufts College,3,2,Boston, MA,1,0,0,0
+2373,Data Analyst,Syniverse,1,2,Unknow,UK,1,0,0,0
+2376,Data Analyst,1199SEIU Training and Employment Funds,1,1,New York, NY,1,0,0,0
+2377,Data Analyst,Princeton Public Schools,1,1,Princeton, NJ,1,0,0,0
+2378,Data Analyst,Alphamatician,3,1,Boston, MA,1,0,0,0
+2382,Junior Analyst,Kepler Group,3,2,New York, NY,1,0,0,0
+2383,Junior Analyst,Taro Pharmaceutical USA Inc,3,1,Hawthorne, NY,1,0,0,0
+2385,Junior Analyst,Cato Institute,1,1,Unknow,UK,1,0,0,0
+2386,Junior Analyst,Aurora Energy Research Limited,1,1,Austin, TX,1,0,0,0
+2387,Junior Analyst,Brown University,1,1,Providence, RI,1,0,0,0
+2390,Junior Analyst,Chicago Public Schools,0,1,Chicago, IL,1,0,0,0
+2393,Junior Analyst,"William E. Wecker Associates, Inc.",3,1,Jackson, WY,1,0,0,0
+2394,Junior Analyst,California Institute of Technology,1,1,Pasadena, CA,1,0,0,0
+2396,Global Data Analyst,BCD Travel Corporate,1,2,Austin, TX,1,0,0,0
+2397,Global Data Analyst,Ralis Services Corp.,3,1,Orange, CA,1,0,0,0
+2402,Global Data Analyst,The Trustees of Tufts College,3,2,Boston, MA,1,0,0,0
+2410,Global Data Analyst,BayGrape,3,1,Orange County, CA,1,0,0,0
+2421,Data Analyst,"Employment Opportunities at BuzzFeed, Inc.",1,0,New York, NY,1,0,0,0
+2422,Data Analyst,Tra'Bian Enterprises,2,2,Unknow,UK,1,0,0,0
+2427,Data Analyst,Pioneer Consulting Services,3,1,West Des Moines, IA,1,0,0,0
+2430,Data Analyst,Word & Brown Companies,1,1,Orange, CA,1,0,0,0
+2431,Data Analyst,Corva,1,1,Houston, TX,1,0,0,0
+2436,Data Analyst,Octo,3,1,Reston, VA,1,0,0,0
+2437,Data Analyst,TikTok,3,2,Seattle, WA,1,0,0,0
+2439,Data Analyst,Group Delphi,2,1,Cranston, RI,1,0,0,0
+2441,"Sr Data Analyst, AMERICAS",Smart AdServer,1,2,New York, NY,1,0,0,0
+2442,"Sr Data Analyst, AMERICAS",MGIC,1,2,Milwaukee, WI,1,0,0,0
+2443,"Sr Data Analyst, AMERICAS",Enveyo,3,2,Provo, UT,1,0,0,0
+2446,"Sr Data Analyst, AMERICAS",Carousel Group,1,1,United States,UK,1,0,0,0
+2451,"Sr Data Analyst, AMERICAS", Delgado Community College,1,0,New Orleans, LA,1,0,0,0
+2453,"Sr Data Analyst, AMERICAS",Bixal,1,2,Unknow,UK,1,0,0,0
+2455,"Sr Data Analyst, AMERICAS",StraighterLine,1,2,Unknow,UK,1,0,0,0
+2461,Data Analytics (Medicare Grievances) Lead Analyst - Work fro...,Pace Communications,1,2,Greensboro, NC,1,0,0,0
+2463,Data Analytics (Medicare Grievances) Lead Analyst - Work fro...,Lane Powell,1,2,Seattle, WA,1,0,0,0
+2465,Data Analytics (Medicare Grievances) Lead Analyst - Work fro...,"Covetrus, North America",1,2,Maine,UK,1,0,0,0
+2466,Data Analytics (Medicare Grievances) Lead Analyst - Work fro...,"Employment Opportunities at BuzzFeed, Inc.",1,0,New York, NY,1,0,0,0
+2469,Data Analytics (Medicare Grievances) Lead Analyst - Work fro...,SeQuel Response,3,2,Eden Prairie, MN,1,0,0,0
+2472,Population Health Data Analyst,Cru,1,2,Orlando, FL,1,0,0,0
+2473,Population Health Data Analyst,"Sylvan Road Capital, LLC",1,1,Unknow,UK,1,0,0,0
+2474,Population Health Data Analyst,"Covetrus, North America",1,2,Maine,UK,1,0,0,0
+2475,Population Health Data Analyst,Entrust Datacard,1,2,Shakopee, MN,1,0,0,0
+2476,Population Health Data Analyst,Miami Heat Limited Partnership,1,2,Miami, FL,1,0,0,0
+2477,Population Health Data Analyst,Simio Cloud,1,1,Westminster, CO,1,0,0,0
+2479,Population Health Data Analyst,Lake Appliance Repair,3,2,Fair Oaks, CA,1,0,0,0
+2487,IT - Data Analyst I,WeStreet Credit Union,1,1,Tulsa, OK,1,0,0,0
+2488,IT - Data Analyst I,MJHS,1,1,Brooklyn, NY,1,0,0,0
+2489,IT - Data Analyst I,Pioneer Consulting Services,3,1,West Des Moines, IA,1,0,0,0
+2490,IT - Data Analyst I,Claro Healthcare,1,2,Chicago, IL,1,0,0,0
+2491,IT - Data Analyst I,"Unical Aviation, Inc.",1,1,Industry, CA,1,0,0,0
+2492,IT - Data Analyst I,Glassview Media,3,1,New York, NY,1,0,0,0
+2494,IT - Data Analyst I,Bixal,1,2,Unknow,UK,1,0,0,0
+2499,IT - Data Analyst I,New York City FC,3,2,New York, NY,1,0,0,0
+2501,"Data Analyst, Business Intelligence",New York City FC,3,2,New York, NY,1,0,0,0
+2506,"Data Analyst, Business Intelligence",Intelligent Medical Objects,1,2,Unknow,UK,1,0,0,0
+2509,"Data Analyst, Business Intelligence",Good Shepherd Rehabilitation Network,1,1,Philadelphia, PA,1,0,0,0
+2510,"Data Analyst, Business Intelligence",Bartlett Dairy Inc,1,2,Jamaica, NY,1,0,0,0
+2511,"Data Analyst, Business Intelligence",TikTok,3,2,Seattle, WA,1,0,0,0
+2512,"Data Analyst, Business Intelligence",Iona College,0,1,New Rochelle, NY,1,0,0,0
+2514,"Data Analyst, Business Intelligence",Simio Cloud,1,1,Westminster, CO,1,0,0,0
+2518,Data Analyst I - International Center for Health Outcomes &...,Concentric Corp.,1,1,Omaha, NE,1,0,0,0
+2521,Data Analyst I - International Center for Health Outcomes &...,Caption Health,1,2,Brisbane, CA,1,0,0,0
+2522,Data Analyst I - International Center for Health Outcomes &...,Technology Group International,3,1,Toledo, OH,1,0,0,0
+2523,Data Analyst I - International Center for Health Outcomes &...,Tarrant County Homeless Coalition,3,1,Fort Worth, TX,1,0,0,0
+2526,Data Analyst I - International Center for Health Outcomes &...,EQUUM Medical,1,2,New York, NY,1,0,0,0
+2527,Data Analyst I - International Center for Health Outcomes &...,"Point Digital Finance, Inc.",3,2,Palo Alto, CA,1,0,0,0
+2530,Data Analyst I - International Center for Health Outcomes &...,Beshton Software,3,2,San Francisco Bay Area, CA,1,0,0,0
+2533,Data Analyst,TwinSpires.com,1,1,Louisville, KY,1,0,0,0
+2534,Data Analyst,GoTo,1,2,Unknow,UK,1,0,0,0
+2536,Data Analyst,VSE Careers,1,1,Unknow,UK,1,0,0,0
+2542,Data Analyst,Group1001,3,1,Chicago, IL,1,0,0,0
+2547,"Data Analyst, Data Analytics",Redstone Federal Credit Union,1,1,Unknow,UK,1,0,0,0
+2548,"Data Analyst, Data Analytics",Octo,3,1,Reston, VA,1,0,0,0
+2550,"Data Analyst, Data Analytics",Public Consulting Group,1,1,United States,UK,1,0,0,0
+2552,"Data Analyst, Data Analytics",Avalara,3,2,Seattle, WA,1,0,0,0
+2554,"Data Analyst, Data Analytics",Homethrive,3,2,Unknow,UK,1,0,0,0
+2558,"Data Analyst, Data Analytics",Dover Federal Credit Union,3,2,Unknow,UK,1,0,0,0
+2560,"Data Analyst, Data Analytics",Grant Street Group,3,2,Unknow,UK,1,0,0,0
+2561,Data Analyst,Technology Group International,3,1,Toledo, OH,1,0,0,0
+2562,Data Analyst,"Roanoke Hospitality, LLC",1,2,Chicago, IL,1,0,0,0
+2563,Data Analyst,auticon,0,1,Columbus, IN,1,0,0,0
+2565,Data Analyst,"Covetrus, North America",1,2,Maine,UK,1,0,0,0
+2566,Data Analyst,Cru,1,2,Orlando, FL,1,0,0,0
+2570,Data Analyst,Fuller Theological Seminary,1,2,Pasadena, CA,1,0,0,0
+2574,Data Analyst,OhioGuidestone,0,2,Columbus, OH,1,0,0,0
+2576,Senior Data Analyst,OhioGuidestone,0,2,Columbus, OH,1,0,0,0
+2583,Senior Data Analyst,Navanti Group,3,1,Arlington, VA,1,0,0,0
+2584,Senior Data Analyst,Markel Corporation,1,1,Omaha, NE,1,0,0,0
+2586,Senior Data Analyst,CHP Of Illinois,3,1,Chicago, IL,1,0,0,0
+2593,Data Analyst I,Intone Networks,2,3,New York, NY,1,0,0,0
+2596,Data Analyst I,Global Pricing Solutions,3,1,United States,UK,1,0,0,0
+2597,Data Analyst I,"Covetrus, North America",1,2,Maine,UK,1,0,0,0
+2598,Data Analyst I,VSE Careers,1,1,Unknow,UK,1,0,0,0
+2603,Data Analyst I,HealthStream,1,0,Nashville, TN,1,0,0,0
+2604,Data Analyst I,Technology Group International,3,1,Toledo, OH,1,0,0,0
+2608,Data Analyst,The Prospective Group,1,1,Washington, DC,1,0,0,0
+2609,Data Analyst,Cotocus,3,1,Sacramento, CA,1,0,0,0
+2610,Data Analyst,Dover Federal Credit Union,3,2,Unknow,UK,1,0,0,0
+2616,Data Analyst,"Aflac, Incorporated",1,2,Unknow,UK,1,0,0,0
+2617,Data Analyst,Webster University,3,1,St. Louis, MO,1,0,0,0
+2624,Entry Level Business Analyst,FICO,1,2,Bozeman, MT,1,0,0,0
+2626,Entry Level Business Analyst,Fuller Theological Seminary,1,2,Pasadena, CA,1,0,0,0
+2628,Entry Level Business Analyst,Full Sail University,3,1,Winter Park, FL,1,0,0,0
+2635,Entry Level Business Analyst,Dover Federal Credit Union,3,2,Unknow,UK,1,0,0,0
+2636,DATA SPECIALIST,Stonehill College,1,1,Easton, MA,1,0,0,0
+2639,DATA SPECIALIST,DLA Piper,3,2,New York, NY,1,0,0,0
+2645,DATA SPECIALIST,"Sun Pharmaceutical Industries, Inc.",3,1,Hawthorne, CA,1,0,0,0
+2646,DATA SPECIALIST,Prime 8 Consulting,1,3,Bellevue, WA,1,0,0,0
+2648,DATA SPECIALIST,TikTok,3,2,Seattle, WA,1,0,0,0
+2649,DATA SPECIALIST,"William E. Wecker Associates, Inc.",3,2,Jackson, WY,1,0,0,0
+2652,Marketing Data Analyst,Intelligent Medical Objects,1,2,Unknow,UK,1,0,0,0
+2653,Marketing Data Analyst,Invenergy,1,2,Chicago, IL,1,0,0,0
+2655,Marketing Data Analyst,Eastern Gateway Community College,1,0,Steubenville, OH,1,0,0,0
+2657,Marketing Data Analyst,Tra'Bian Enterprises,2,2,Harrisburg, PA,1,0,0,0
+2660,Marketing Data Analyst,BairesDev,3,2,Los Angeles, CA,1,0,0,0
+2661,Marketing Data Analyst,DACK Consulting Solutions,3,1,White Plains, NY,1,0,0,0
+2662,Marketing Data Analyst,Royal Caribbean Group,3,2,United States,UK,1,0,0,0
+2668,ICTS Data Analyst,Charles R. Drew University,0,1,Los Angeles, CA,1,0,0,0
+2669,ICTS Data Analyst,"VIZIO, Inc.",1,3,New York, NY,1,0,0,0
+2671,ICTS Data Analyst,"RER SOLUTIONS, INC",1,2,Washington, DC,1,0,0,0
+2680,ICTS Data Analyst,"Prodege, LLC",3,3,El Segundo, CA,1,0,0,0
+2681,Institutional Research Data Analyst,Grand View University,3,0,Des Moines, IA,1,0,0,0
+2682,Institutional Research Data Analyst,Humanity,1,2,Denver, CO,1,0,0,0
+2683,Institutional Research Data Analyst,Cru,1,2,Orlando, FL,1,0,0,0
+2684,Institutional Research Data Analyst,ClientSucces,3,1,Lehi, UT,1,0,0,0
+2691,Institutional Research Data Analyst,CareSource,1,1,Indiana,UK,1,0,0,0
+2694,Institutional Research Data Analyst,CompuTech Computers,3,1,Elmhurst, NY,1,0,0,0
+2696,Data Analyst Customer Excellence,ViaPath Technologies,1,1,Columbus, OH,1,0,0,0
+2698,Data Analyst Customer Excellence,Quincy Public Schools,1,1,Quincy, MA,1,0,0,0
+2699,Data Analyst Customer Excellence,Baker McKenzie,3,0,United States,UK,1,0,0,0
+2700,Data Analyst Customer Excellence,ACHIEVE of NY,0,0,Binghamton, NY,1,0,0,0
+2702,Data Analyst Customer Excellence,Susan B. Anthony List,1,1,Arlington, VA,1,0,0,0
+2703,Data Analyst Customer Excellence,Enable Data,3,2,Minneapolis, MN,1,0,0,0
+2705,Data Analyst Customer Excellence,Simulmedia,1,2,New York, NY,1,0,0,0
+2706,Data Analyst Customer Excellence,Fisher Investments,1,1,Camas, WA,1,0,0,0
+2708,Data Analyst Customer Excellence,Flagstar Bank,1,2,Unknow,UK,1,0,0,0
+2711,Senior Data Analyst,LG Electronics U.S.,3,3,Englewood Cliffs, NJ,1,0,0,0
+2712,Senior Data Analyst,ACHIEVE of NY,0,0,Binghamton, NY,1,0,0,0
+2713,Senior Data Analyst,TikTok,3,2,Seattle, WA,1,0,0,0
+2716,Senior Data Analyst,"Orpine, Inc. Internal",3,0,United States,UK,1,0,0,0
+2717,Senior Data Analyst,Vista Equity Partners Management,3,3,Unknow,UK,1,0,0,0
+2720,Senior Data Analyst,Cambium Assessment,1,2,Unknow,UK,1,0,0,0
+2721,Senior Data Analyst,Baker McKenzie,3,0,United States,UK,1,0,0,0
+2722,Senior Data Analyst,Flagstar Bank,1,2,Unknow,UK,1,0,0,0
+2723,Senior Data Analyst,MNX Global Logistics,1,1,Unknow,UK,1,0,0,0
+2724,Senior Data Analyst,Envisagegroup,3,2,New York, NY,1,0,0,0
+2725,Senior Data Analyst,Barry University,1,1,Miami Shores, FL,1,0,0,0
+2726,Data Analyst,The University of Tulsa,3,1,Tulsa, OK,1,0,0,0
+2728,Data Analyst,Universal Audio,3,4,Scotts Valley, CA,1,0,0,0
+2731,Data Analyst,Association of American Medical Colleges,1,2,Washington, DC,1,0,0,0
+2732,Data Analyst,Simulmedia,1,2,New York, NY,1,0,0,0
+2734,Data Analyst,Department of Health and Human Services (HHS) Food...,3,1,Silver Spring, MD,1,0,0,0
+2735,Data Analyst,Royal Caribbean Group,3,2,United States,UK,1,0,0,0
+2736,Data Analyst,CMI Media Group,3,2,Parsippany, NJ,1,0,0,0
+2739,Data Analyst,Springfield Public Schools,3,2,Springfield, MA,1,0,0,0
+2741,"CDC (Contract) Scientific Data Analyst (Salary: $65,000-$70,...",Springfield Public Schools,3,2,Springfield, MA,1,0,0,0
+2745,"CDC (Contract) Scientific Data Analyst (Salary: $65,000-$70,...",The Earth Partners,1,2,Unknow,UK,1,0,0,0
+2748,"CDC (Contract) Scientific Data Analyst (Salary: $65,000-$70,...","Cleveland Guardians Baseball Co., LLC",1,0,Cleveland, OH,1,0,0,0
+2749,"CDC (Contract) Scientific Data Analyst (Salary: $65,000-$70,...",Federal Reserve Bank of Boston,1,3,Boston, MA,1,0,0,0
+2750,"CDC (Contract) Scientific Data Analyst (Salary: $65,000-$70,...",OnFrontiers,3,2,New York, NY,1,0,0,0
+2752,"CDC (Contract) Scientific Data Analyst (Salary: $65,000-$70,...",Cabot Corporation,1,1,Unknow,UK,1,0,0,0
+2754,"CDC (Contract) Scientific Data Analyst (Salary: $65,000-$70,...",ThirdLove,3,2,San Francisco, CA,1,0,0,0
+2755,"CDC (Contract) Scientific Data Analyst (Salary: $65,000-$70,...",Relation Insurance,3,1,Unknow,UK,1,0,0,0
+2761,Investment Data Analyst,Vault,1,2,New York, NY,1,0,0,0
+2762,Investment Data Analyst,Hubbard Broadcasting,1,1,New York, NY,1,0,0,0
+2764,Investment Data Analyst,WEBTOON Entertainment,2,1,Los Angeles, CA,1,0,0,0
+2765,Investment Data Analyst,DLA Piper,3,2,New York, NY,1,0,0,0
+2766,Investment Data Analyst,LAs Totally Awesome,3,1,Buena Park, CA,1,0,0,0
+2768,Investment Data Analyst,Cadent,1,1,Philadelphia, PA,1,0,0,0
+2771,Data Analyst,Markel Corporation,1,1,Omaha, NE,1,0,0,0
+2772,Data Analyst,Tinker Federal Credit Union,1,1,Oklahoma City, OK,1,0,0,0
+2779,Data Analyst,"Take-Two Interactive Software, Inc.",3,2,New York, NY,1,0,0,0
+2784,Data Analyst,Vault,1,2,New York, NY,1,0,0,0
+2787,Senior Data Mining Analyst -- Remote/WFH Option (3842),"Independent Physicians Resource, Inc",1,1,Atlanta, GA,1,0,0,0
+2788,Senior Data Mining Analyst -- Remote/WFH Option (3842),Jordan & Jordan,1,2,New York, NY,1,0,0,0
+2789,Senior Data Mining Analyst -- Remote/WFH Option (3842),Chicago Trading Company (CTC),1,1,Chicago, IL,1,0,0,0
+2792,Senior Data Mining Analyst -- Remote/WFH Option (3842),Crossroads Health,1,1,Mentor, OH,1,0,0,0
+2797,Senior Data Mining Analyst -- Remote/WFH Option (3842),Department of Health and Human Services (HHS) Food...,3,1,Silver Spring, MD,1,0,0,0
+2801,"Research Data Analyst, Infectious Diseases",MedeAnalytics,3,2,Unknow,UK,1,0,0,0
+2805,"Research Data Analyst, Infectious Diseases",TwinSpires.com,1,1,Louisville, KY,1,0,0,0
+2807,"Research Data Analyst, Infectious Diseases",LAs Totally Awesome,3,1,Buena Park, CA,1,0,0,0
+2808,"Research Data Analyst, Infectious Diseases",Charles R. Drew University,0,1,Los Angeles, CA,1,0,0,0
+2811,"Research Data Analyst, Infectious Diseases",The Consultant’s Consortium,2,1,Cranston, RI,1,0,0,0
+2812,"Research Data Analyst, Infectious Diseases",IPG Mediabrands,3,0,New York, NY,1,0,0,0
+2813,"Research Data Analyst, Infectious Diseases",Syniverse,1,2,Unknow,UK,1,0,0,0
+2816,Senior Data Analyst,Ritual,1,3,Unknow,UK,1,0,0,0
+2817,Senior Data Analyst,LAs Totally Awesome,3,1,Buena Park, CA,1,0,0,0
+2822,Senior Data Analyst,MarketStar,1,2,Unknow,UK,1,0,0,0
+2823,Senior Data Analyst,2nd Watch,1,3,Seattle, WA,1,0,0,0
+2829,Senior Data Analyst,UBS,1,2,New York, NY,1,0,0,0
+2833,Data Analyst - Healthline,2nd Watch,1,3,Seattle, WA,1,0,0,0
+2834,Data Analyst - Healthline,ARC Solutions USA,3,2,Township of Hamilton, NJ,1,0,0,0
+2835,Data Analyst - Healthline,Teqqi,1,1,New York, NY,1,0,0,0
+2836,Data Analyst - Healthline,Charles R. Drew University,0,1,Los Angeles, CA,1,0,0,0
+2839,Data Analyst - Healthline,Healthedge,1,2,Unknow,UK,1,0,0,0
+2840,Data Analyst - Healthline,Newfold Digital,1,1,Unknow,UK,1,0,0,0
+2843,Data Analyst - Healthline,Beshton Software,3,2,San Francisco Bay Area, CA,1,0,0,0
+2844,Data Analyst - Healthline,Stackline,1,2,Seattle, WA,1,0,0,0
+2850,Early career data scientist / analyst / statistical genetici...,Bartlett Distribution Services LLC,1,0,Newark, NJ,1,0,0,0
+2851,Early career data scientist / analyst / statistical genetici...,QCom Consultants,3,2,Ridgefield, CT,1,0,0,0
+2853,Early career data scientist / analyst / statistical genetici...,Ready Capital Corporation,1,1,Berkeley Heights, NJ,1,0,0,0
+2855,Early career data scientist / analyst / statistical genetici...,Aeris Insight,2,1,Unknow,UK,1,0,0,0
+2856,Early career data scientist / analyst / statistical genetici...,New Front Insurance,1,4,San Francisco, CA,1,0,0,0
+2857,Early career data scientist / analyst / statistical genetici...,Ingredion,1,1,Westchester, IL,1,0,0,0
+2859,Early career data scientist / analyst / statistical genetici...,Word & Brown Companies,1,1,Orange, CA,1,0,0,0
+2861,Business Analyst: Data Migration,Wealthbox,3,1,Providence, RI,1,0,0,0
+2862,Business Analyst: Data Migration,IPG Mediabrands,3,0,New York, NY,1,0,0,0
+2863,Business Analyst: Data Migration,Jobscan,1,2,Unknow,UK,1,0,0,0
+2864,Business Analyst: Data Migration,ADM Associates,3,1,Reno, NV,1,0,0,0
+2868,Business Analyst: Data Migration,Richey May & Co Llp,3,1,Englewood, CO,1,0,0,0
+2871,Business Analyst: Data Migration,The Trustees of Tufts College,3,2,Boston, MA,1,0,0,0
+2873,Business Analyst: Data Migration,Beechwood Sales and Service,0,0,New Berlin, WI,1,0,0,0
+2876,IT Analyst/Data Analyst,Oakland University,1,1,Rochester, MI,1,0,0,0
+2877,IT Analyst/Data Analyst,"Orpine, Inc. Internal",3,2,San Francisco, CA,1,0,0,0
+2879,IT Analyst/Data Analyst,California Hospital Association,1,1,Sacramento, CA,1,0,0,0
+2884,IT Analyst/Data Analyst,SION Stratergy Soft,3,2,Metuchen, NJ,1,0,0,0
+2885,IT Analyst/Data Analyst,Veyl Ventures,3,1,Unknow,UK,1,0,0,0
+2886,IT Analyst/Data Analyst,National Veterinary Associates,3,1,United States,UK,1,0,0,0
+2887,IT Analyst/Data Analyst,SeQuel Response,3,2,Eden Prairie, MN,1,0,0,0
+2888,IT Analyst/Data Analyst,Logistics Management Institute,1,2,Norfolk, VA,1,0,0,0
+2889,IT Analyst/Data Analyst,Federal Reserve Bank of Chicago,1,2,Chicago, IL,1,0,0,0
+2891,Data Analyst,SeQuel Response,3,2,Eden Prairie, MN,1,0,0,0
+2892,Data Analyst,Logistics Management Institute,1,2,Norfolk, VA,1,0,0,0
+2893,Data Analyst,Federal Reserve Bank of Chicago,1,2,Chicago, IL,1,0,0,0
+2895,Data Analyst,Crunch.io,3,2,San Francisco Bay Area, CA,1,0,0,0
+2896,Data Analyst,The New School,1,2,New York, NY,1,0,0,0
+2898,Data Analyst,"Orpine, Inc. Internal",3,0,United States,UK,1,0,0,0
+2899,Data Analyst,New Front Insurance,1,4,San Francisco, CA,1,0,0,0
+2900,Data Analyst,VelocityEHS,1,2,Chicago, IL,1,0,0,0
+2902,Data Analyst,Rover,1,3,Seattle, WA,1,0,0,0
+2904,Data Analyst,"Zoom Video Communications, Inc.",1,3,San Francisco Bay Area, CA,1,0,0,0
+2905,Data Analyst,Odeko,3,3,New York, NY,1,0,0,0
+2906,Fraud Data Analyst,"Zoom Video Communications, Inc.",1,3,San Francisco Bay Area, CA,1,0,0,0
+2907,Fraud Data Analyst,Odeko,3,3,New York, NY,1,0,0,0
+2909,Fraud Data Analyst,Algonomy,3,3,San Francisco Bay Area, CA,1,0,0,0
+2911,Fraud Data Analyst,Vault,1,2,New York, NY,1,0,0,0
+2912,Fraud Data Analyst,"The University of Connecticut Foundation, Inc.",0,2,Storrs, CT,1,0,0,0
+2914,Fraud Data Analyst,Blue Cross Blue Shield of Michigan,1,1,New Hudson, MI,1,0,0,0
+2915,Fraud Data Analyst,Wichita Public Schools,1,1,Wichita, KS,1,0,0,0
+2919,Fraud Data Analyst,"Dovel Technologies, LLC",1,2,Bethesda, MD,1,0,0,0
+2920,Fraud Data Analyst,CareSource,1,1,Indiana,UK,1,0,0,0
+2921,Independent Business Analyst,Point B,2,3,Seattle, WA,1,0,0,0
+2924,Independent Business Analyst,Federal Reserve Bank of Chicago,1,2,Chicago, IL,1,0,0,0
+2925,Independent Business Analyst,Wisefolks Technologies,3,2,Dallas, TX,1,0,0,0
+2926,Independent Business Analyst,Tra'Bian Enterprises,2,2,Unknow,UK,1,0,0,0
+2929,Independent Business Analyst,Braintree Public Schools,1,1,Braintree, MA,1,0,0,0
+2930,Independent Business Analyst,Wichita Public Schools,1,1,Wichita, KS,1,0,0,0
+2931,Independent Business Analyst,CHP Of Illinois,3,1,Chicago, IL,1,0,0,0
+2932,Independent Business Analyst,C2S Techs,3,1,Bellevue, WA,1,0,0,0
+2933,Independent Business Analyst,ARC Solutions USA,3,2,Township of Hamilton, NJ,1,0,0,0
+2935,Independent Business Analyst,Clearwave Fiber LLC,1,1,Unknow,UK,1,0,0,0
+2936,NGS Data Quality Engineer,National Football League,0,2,Inglewood, CA,0,1,0,0
+2937,NGS Data Quality Engineer,Tyler Technologies,3,2,Unknow,UK,0,1,0,0
+2938,NGS Data Quality Engineer,Cato Institute,1,1,Unknow,UK,0,1,0,0
+2941,NGS Data Quality Engineer,Talkiatry,1,4,Unknow,UK,0,1,0,0
+2952,Data Engineer,ApolloMed,1,2,Unknow,UK,0,1,0,0
+2962,Data Engineer,Black Diamond Consulting Corporation,0,1,Unknow,UK,0,1,0,0
+2971,Entry Level Product Data Management Engineer,FacilityConneX,3,2,Nashua, NH,0,1,0,0
+2973,Entry Level Product Data Management Engineer,"Gametime United, Inc.",1,2,Unknow,UK,0,1,0,0
+2980,Entry Level Product Data Management Engineer,Amadeus,3,3,Salt Lake City, UT,0,1,0,0
+2984,Data Engineer & Analyst,"Parallax Volatility Advisers, LP",3,3,Jersey City, NJ,0,1,0,0
+2986,Data Engineer & Analyst,Dana-Farber Cancer Institute,1,3,Boston, MA,0,1,0,0
+2988,Data Engineer & Analyst,Amadeus,3,3,Salt Lake City, UT,0,1,0,0
+2989,Data Engineer & Analyst,SageSure,1,2,Unknow,UK,0,1,0,0
+2990,Data Engineer & Analyst,The New York Stem Cell Foundation Research...,1,2,New York, NY,0,1,0,0
+2994,Data Engineer & Analyst,Becker Logistics LLC,3,1,Unknow,UK,0,1,0,0
+2995,Data Engineer & Analyst,Open Earth Foundation,1,2,Unknow,UK,0,1,0,0
+2996,Data Engineer,Becker Logistics LLC,3,1,Unknow,UK,0,1,0,0
+2997,Data Engineer,mediaagility,3,3,Princeton, NJ,0,1,0,0
+2999,Data Engineer,Recorded Future Co-ops and Internships,1,3,Somerville, MA,0,1,0,0
+3003,Data Engineer,C Space,1,1,Boston, MA,0,1,0,0
+3005,Data Engineer,Smart IMS,3,3,Jersey City, NJ,0,1,0,0
+3009,Data Engineer,Veho,1,5,Unknow,UK,0,1,0,0
+3014,Data Analyst/Engineer,Ars Quanta,1,1,Seattle, WA,0,1,0,0
+3015,Data Analyst/Engineer,Dana-Farber Cancer Institute,1,3,Boston, MA,0,1,0,0
+3016,Data Analyst/Engineer,Certilytics,1,5,United States,UK,0,1,0,0
+3017,Data Analyst/Engineer,Micron,3,3,Atlanta, GA,0,1,0,0
+3018,Data Analyst/Engineer,1-800-Flowers,3,3,Jericho, NY,0,1,0,0
+3024,Data Analyst/Engineer,Dassault Falcon Jet,1,2,Little Rock, AR,0,1,0,0
+3030,Data Engineer,Certilytics,1,5,United States,UK,0,1,0,0
+3031,Data Engineer,Ars Quanta,1,1,Seattle, WA,0,1,0,0
+3033,Data Engineer,Open Earth Foundation,1,2,Unknow,UK,0,1,0,0
+3034,Data Engineer,"Gametime United, Inc.",1,2,Unknow,UK,0,1,0,0
+3035,Data Engineer,Denodo Technologies,1,3,Palo Alto, CA,0,1,0,0
+3042,Junior Quantitative Data Engineer,Veho,1,5,Unknow,UK,0,1,0,0
+3044,Junior Quantitative Data Engineer,Wondr Health,1,3,Dallas, TX,0,1,0,0
+3047,Junior Quantitative Data Engineer,Micron,3,2,Boise, ID,0,1,0,0
+3049,Junior Quantitative Data Engineer,Akraya Inc.,3,4,Bellevue, WA,0,1,0,0
+3050,Junior Quantitative Data Engineer,Maximo Global Tech,1,3,Unknow,UK,0,1,0,0
+3057,ENGINEER - DATA SCIENCE,Micron,3,2,Boise, ID,0,1,0,0
+3059,ENGINEER - DATA SCIENCE,SageSure,1,2,Unknow,UK,0,1,0,0
+3062,ENGINEER - DATA SCIENCE,"Grammarly, Inc.",3,3,Unknow,UK,0,1,0,0
+3064,ENGINEER - DATA SCIENCE,Iconity,1,4,Unknow,UK,0,1,0,0
+3065,ENGINEER - DATA SCIENCE,Network Capital Funding Corporation,1,3,Irvine, CA,0,1,0,0
+3066,ENGINEER - DATA SCIENCE,Dana-Farber Cancer Institute,1,3,Boston, MA,0,1,0,0
+3068,ENGINEER - DATA SCIENCE,Fisker Inc,1,4,Manhattan Beach, CA,0,1,0,0
+3071,Data Engineer,Dispatch,3,3,Unknow,UK,0,1,0,0
+3073,Data Engineer,Dana-Farber Cancer Institute,1,3,Boston, MA,0,1,0,0
+3076,Data Engineer,GoodRx,1,3,Unknow,UK,0,1,0,0
+3077,Data Engineer,GrayMatter,3,2,Unknow,UK,0,1,0,0
+3078,Data Engineer,Noom,1,3,New York, NY,0,1,0,0
+3082,Data Engineer,"enVista, LLC",1,3,Carmel, IN,0,1,0,0
+3083,Data Engineer,Ariel Investments,3,2,Chicago, IL,0,1,0,0
+3084,Data Engineer,Liaison International,1,3,Watertown, MA,0,1,0,0
+3087,Data Engineer,O'Reilly Media,3,3,Unknow,UK,0,1,0,0
+3089,Data Engineer,True Rx Management Services,1,2,Indiana,UK,0,1,0,0
+3090,Data Engineer,Ellington Management Group,3,3,Old Greenwich, CT,0,1,0,0
+3091,Data Engineer,HealthVerity,1,2,Unknow,UK,0,1,0,0
+3092,Data Engineer,National University,1,2,New York, NY,0,1,0,0
+3093,Data Engineer,SageSure,1,2,Unknow,UK,0,1,0,0
+3096,Data Engineer,Hartford Steam Boiler,3,1,Hartford, CT,0,1,0,0
+3098,Data Engineer,Avani Systems,2,3,Seattle, WA,0,1,0,0
+3099,Data Engineer,SimulStat,2,4,Unknow,UK,0,1,0,0
+3102,Sr. Software Engineer – Data Warehousing,Fisker Inc,1,4,Manhattan Beach, CA,0,1,0,0
+3103,Sr. Software Engineer – Data Warehousing,Cart.com,1,4,Unknow,UK,0,1,0,0
+3104,Sr. Software Engineer – Data Warehousing,Avani Systems,2,3,Seattle, WA,0,1,0,0
+3105,Sr. Software Engineer – Data Warehousing,Miracle Software Systems,2,3,United States,UK,0,1,0,0
+3106,Sr. Software Engineer – Data Warehousing,Green Plains,1,2,Omaha, NE,0,1,0,0
+3107,Sr. Software Engineer – Data Warehousing,ROHDE & SCHWARZ GmbH & Co. KG,1,2,Hillsboro, OR,0,1,0,0
+3109,Sr. Software Engineer – Data Warehousing,Agama Solutions,3,3,Denver, NY,0,1,0,0
+3111,Sr. Software Engineer – Data Warehousing,GoTo,1,3,Unknow,UK,0,1,0,0
+3112,Sr. Software Engineer – Data Warehousing,Infostretch,3,2,Unknow,UK,0,1,0,0
+3116,Data /Software Engineers,Ars Quanta,1,1,Seattle, WA,0,1,0,0
+3118,Data /Software Engineers,Avani Systems,2,3,Seattle, WA,0,1,0,0
+3119,Data /Software Engineers,dMetrics,3,4,Brooklyn, NY,0,1,0,0
+3123,Data /Software Engineers,Infostretch,3,2,Unknow,UK,0,1,0,0
+3126,Data /Software Engineers,Hap Capital,3,2,New York, NY,0,1,0,0
+3127,Data /Software Engineers,HealthVerity,1,2,Unknow,UK,0,1,0,0
+3130,Data /Software Engineers,Ginkgo Bioworks,1,3,Unknow,UK,0,1,0,0
+3141,Data Engineer,Ginkgo Bioworks,1,3,Unknow,UK,0,1,0,0
+3143,Data Engineer,Micron,3,3,Atlanta, GA,0,1,0,0
+3144,Data Engineer,IntelliDyne,1,3,Falls Church, VA,0,1,0,0
+3145,Data Engineer,Millennium Management LLC,1,2,Newport Beach, CA,0,1,0,0
+3149,Data Engineer/Data Scientist,Ellington Management Group,3,3,Old Greenwich, CT,0,1,0,0
+3150,Data Engineer/Data Scientist,Infostretch,3,2,Unknow,UK,0,1,0,0
+3154,Data Engineer/Data Scientist,pulseData,1,4,New York, NY,0,1,0,0
+3155,Data Engineer/Data Scientist,Dana-Farber Cancer Institute,1,3,Boston, MA,0,1,0,0
+3156,Data Engineer/Data Scientist,dMetrics,3,4,Brooklyn, NY,0,1,0,0
+3157,Data Engineer/Data Scientist,GitLab,3,3,Unknow,UK,0,1,0,0
+3158,Data Engineer/Data Scientist,Millennium Management LLC,1,2,Newport Beach, CA,0,1,0,0
+3163,Data Management & Integration Engineer,IntelliDyne,1,3,Falls Church, VA,0,1,0,0
+3167,Data Management & Integration Engineer,Micron,3,2,Boise, ID,0,1,0,0
+3169,Data Management & Integration Engineer,Instec Corp,3,3,Unknow,UK,0,1,0,0
+3170,Data Management & Integration Engineer,"NorthShore Resources, Inc.",3,3,Richfield, MN,0,1,0,0
+3171,Data Management & Integration Engineer,"Stanley, Black and Decker",3,6,New Britain, CT,0,1,0,0
+3172,Data Management & Integration Engineer,Associated Bank,1,4,Green Bay, WI,0,1,0,0
+3174,Data Management & Integration Engineer,PGA Tour,1,3,Ponte Vedra Beach, FL,0,1,0,0
+3179,Data Engineer,Nortal,3,3,Unknow,UK,0,1,0,0
+3180,Data Engineer,Sentrilock LLC,3,2,Unknow,UK,0,1,0,0
+3181,Data Engineer,SunPower,3,3,Richmond, CA,0,1,0,0
+3182,Data Engineer,Honda Dev. and Mfg. of Am LLC,3,2,Marysville, OH,0,1,0,0
+3185,Data Engineer,pulseData,1,4,New York, NY,0,1,0,0
+3190,Data Engineer,GitLab,3,3,Unknow,UK,0,1,0,0
+3192,ENGINEER - DATA SCIENCE,Initiate Government Solutions,3,3,Unknow,UK,0,1,0,0
+3193,ENGINEER - DATA SCIENCE,Nortal,3,3,Unknow,UK,0,1,0,0
+3194,ENGINEER - DATA SCIENCE,C2S Techs,3,3,Bellevue, WA,0,1,0,0
+3195,ENGINEER - DATA SCIENCE,Infostretch,3,2,Unknow,UK,0,1,0,0
+3198,ENGINEER - DATA SCIENCE,Associated Bank,1,4,Green Bay, WI,0,1,0,0
+3199,ENGINEER - DATA SCIENCE,"Ilitch Holdings, Inc.",3,2,Detroit, MI,0,1,0,0
+3200,ENGINEER - DATA SCIENCE,Federal Reserve Bank of Dallas,1,3,Dallas, TX,0,1,0,0
+3202,ENGINEER - DATA SCIENCE,National University,1,3,San Francisco, CA,0,1,0,0
+3204,ENGINEER - DATA SCIENCE,Instec Corp,3,3,Unknow,UK,0,1,0,0
+3205,ENGINEER - DATA SCIENCE,Millennium Management LLC,1,2,Newport Beach, CA,0,1,0,0
+3206,Data Engineer or Data Engineer Senior - Remote Within Footpr...,Associated Bank,1,4,Green Bay, WI,0,1,0,0
+3208,Data Engineer or Data Engineer Senior - Remote Within Footpr...,Object Computing Inc.,1,3,Unknow,UK,0,1,0,0
+3209,Data Engineer or Data Engineer Senior - Remote Within Footpr...,Blocknative Corporation,1,4,United States,UK,0,1,0,0
+3210,Data Engineer or Data Engineer Senior - Remote Within Footpr...,Enable Data,3,3,Minneapolis, MN,0,1,0,0
+3211,Data Engineer or Data Engineer Senior - Remote Within Footpr...,The Stable,1,3,Bentonville, AR,0,1,0,0
+3213,Data Engineer or Data Engineer Senior - Remote Within Footpr...,C2S Techs,1,2,Bellevue, WA,0,1,0,0
+3214,Data Engineer or Data Engineer Senior - Remote Within Footpr...,"Ilitch Holdings, Inc.",3,2,Detroit, MI,0,1,0,0
+3217,Data Engineer or Data Engineer Senior - Remote Within Footpr...,"Franchise World Hqts, LLC",1,3,Milford, CT,0,1,0,0
+3220,Data Engineer or Data Engineer Senior - Remote Within Footpr...,"Stanley, Black and Decker",3,6,New Britain, CT,0,1,0,0
+3221,Senior Data Engineer,dMetrics,3,4,Brooklyn, NY,0,1,0,0
+3223,Senior Data Engineer,ROHDE & SCHWARZ GmbH & Co. KG,1,2,Hillsboro, OR,0,1,0,0
+3227,Senior Data Engineer,SEVEN,1,2,Marshall, TX,0,1,0,0
+3228,Senior Data Engineer,Tecton,1,3,New York, NY,0,1,0,0
+3231,Senior Data Engineer,Red Alpha LLC,1,5,Annapolis Junction, MD,0,1,0,0
+3232,Senior Data Engineer,Sotheby's,3,4,New York, NY,0,1,0,0
+3233,Senior Data Engineer,The Stable,1,3,Bentonville, AR,0,1,0,0
+3234,Senior Data Engineer,Agama Solutions,3,3,United States,UK,0,1,0,0
+3236,Data Engineer,"NorthShore Resources, Inc.",3,3,Richfield, MN,0,1,0,0
+3251,Data Pipeline Engineer,Agama Solutions,3,3,United States,UK,0,1,0,0
+3252,Data Pipeline Engineer,Alo Yoga,3,3,Oregon,UK,0,1,0,0
+3254,Data Pipeline Engineer,Tecton,1,3,New York, NY,0,1,0,0
+3255,Data Pipeline Engineer,Enable Data,3,3,Minneapolis, MN,0,1,0,0
+3256,Data Pipeline Engineer,Sotheby's,3,4,New York, NY,0,1,0,0
+3257,Data Pipeline Engineer,"3-GIS, LLC",3,2,Unknow,UK,0,1,0,0
+3259,Data Pipeline Engineer,Noodle,1,4,Tulsa, OK,0,1,0,0
+3260,Data Pipeline Engineer,1-800-Flowers,3,3,Jericho, NY,0,1,0,0
+3261,Data Pipeline Engineer,Micron,3,2,Boise, ID,0,1,0,0
+3263,Data Pipeline Engineer,Knackshops Inc,1,3,Unknow,UK,0,1,0,0
+3267,"Software Engineer, Data (Satellites & Payloads)",America At Work,1,3,Unknow,UK,0,1,0,0
+3268,"Software Engineer, Data (Satellites & Payloads)",Ascent Brands,1,3,Caledonia, MI,0,1,0,0
+3269,"Software Engineer, Data (Satellites & Payloads)",Groundspeed,1,3,Unknow,UK,0,1,0,0
+3271,"Software Engineer, Data (Satellites & Payloads)","Lotic.ai, Inc.",3,5,Unknow,UK,0,1,0,0
+3272,"Software Engineer, Data (Satellites & Payloads)",AWM SMART SHELF,3,3,United States,UK,0,1,0,0
+3273,"Software Engineer, Data (Satellites & Payloads)",HealthVerity,1,3,Unknow,UK,0,1,0,0
+3274,"Software Engineer, Data (Satellites & Payloads)",Amica Mutual Insurance Company,1,3,Lincoln, RI,0,1,0,0
+3276,"Software Engineer, Data (Satellites & Payloads)",Upgrade,1,4,Unknow,UK,0,1,0,0
+3279,"Software Engineer, Data (Satellites & Payloads)","Franchise World Hqts, LLC",1,3,Milford, CT,0,1,0,0
+3281,Data Engineer Professional,The Nassau Companies of New York.,1,3,Hartford, CT,0,1,0,0
+3283,Data Engineer Professional,Zanbato,3,4,Mountain View, CA,0,1,0,0
+3285,Data Engineer Professional,Validere Technologies,1,4,Unknow,UK,0,1,0,0
+3287,Data Engineer Professional,ServiceTitan,1,4,Unknow,UK,0,1,0,0
+3291,Data Engineer Professional,"NorthShore Resources, Inc.",3,3,Richfield, MN,0,1,0,0
+3292,Data Engineer Professional,Alo Yoga,3,3,Oregon,UK,0,1,0,0
+3297,"Software Engineer, Data Platform",HRL Laboratories LLC,1,4,Malibu, CA,0,1,0,0
+3298,"Software Engineer, Data Platform",The Stable,1,3,Bentonville, AR,0,1,0,0
+3300,"Software Engineer, Data Platform",Codecademy,3,4,New York, NY,0,1,0,0
+3301,"Software Engineer, Data Platform",IntelliDyne,1,3,Falls Church, VA,0,1,0,0
+3304,"Software Engineer, Data Platform",pulseData,1,4,New York, NY,0,1,0,0
+3305,"Software Engineer, Data Platform",Balsam Brands,1,5,Redwood City, CA,0,1,0,0
+3306,"Software Engineer, Data Platform",Blocknative Corporation,1,4,United States,UK,0,1,0,0
+3309,"Software Engineer, Data Platform",Sparksoft Corporation,1,3,Columbia, MD,0,1,0,0
+3311,Data Engineer II,Spiceworks,1,3,Unknow,UK,0,1,0,0
+3313,Data Engineer II,Tecton,1,3,New York, NY,0,1,0,0
+3315,Data Engineer II,SOSi,3,3,Vienna, VA,0,1,0,0
+3317,Data Engineer II,Ascent Brands,1,3,Caledonia, MI,0,1,0,0
+3320,Data Engineer II,Clark Construction Group,1,3,McLean, VA,0,1,0,0
+3321,Data Engineer II,Kinesso Ltd.,3,2,Chicago, IL,0,1,0,0
+3322,Data Engineer II,Amica Mutual Insurance Company,1,3,Lincoln, RI,0,1,0,0
+3326,Data Science Engineer,AI Cyber Solutions,3,3,Tampa, FL,0,1,0,0
+3330,Data Science Engineer,Sotheby's,3,4,New York, NY,0,1,0,0
+3331,Data Science Engineer,HRL Laboratories LLC,1,4,Malibu, CA,0,1,0,0
+3332,Data Science Engineer,Torc Robotics,1,1,Blacksburg, VA,0,1,0,0
+3336,Data Science Engineer,Built Technologies,1,4,Nashville, TN,0,1,0,0
+3337,Data Science Engineer,Noodle,1,4,Tulsa, OK,0,1,0,0
+3338,Data Science Engineer,Tyler Technologies,3,3,Nashville, TN,0,1,0,0
+3344,Data Engineer,DraftKings,1,3,Unknow,UK,0,1,0,0
+3345,Data Engineer,Groundspeed,1,3,Unknow,UK,0,1,0,0
+3346,Data Engineer,Farm Credit Financial Partners,3,2,Springfield, MA,0,1,0,0
+3350,Data Engineer,Spirent Communications,1,2,United States,UK,0,1,0,0
+3351,Data Engineer,Zanbato,3,4,Mountain View, CA,0,1,0,0
+3353,Data Engineer,Federal Reserve Bank of Dallas,1,3,Dallas, TX,0,1,0,0
+3355,Data Engineer,The Stable,1,3,Bentonville, AR,0,1,0,0
+3356,Senior Analyst - Data Engineer,Qcentrio,2,4,Seattle, WA,0,1,0,0
+3359,Senior Analyst - Data Engineer,Haven Technologies,3,3,New York, NY,0,1,0,0
+3361,Senior Analyst - Data Engineer,Tesseract,3,5,Palo Alto, CA,0,1,0,0
+3362,Senior Analyst - Data Engineer,SunPower,3,4,Seattle, WA,0,1,0,0
+3363,Senior Analyst - Data Engineer,Noodle,1,4,Tulsa, OK,0,1,0,0
+3367,Senior Analyst - Data Engineer,Avestacs,2,3,Unknow,UK,0,1,0,0
+3368,Senior Analyst - Data Engineer,Upgrade,1,4,Unknow,UK,0,1,0,0
+3370,Senior Analyst - Data Engineer,America At Work,1,3,Unknow,UK,0,1,0,0
+3372,"Synthetic Data Generation Cloud Engineer, DRIVE Sim",Spiceworks,1,3,Unknow,UK,0,1,0,0
+3373,"Synthetic Data Generation Cloud Engineer, DRIVE Sim",Camgian,3,4,Starkville, MS,0,1,0,0
+3374,"Synthetic Data Generation Cloud Engineer, DRIVE Sim",Foundation for California Community Colleges...,1,2,Unknow,UK,0,1,0,0
+3375,"Synthetic Data Generation Cloud Engineer, DRIVE Sim",Protocol Labs,3,4,Unknow,UK,0,1,0,0
+3376,"Synthetic Data Generation Cloud Engineer, DRIVE Sim",Broad Institute,1,2,Cambridge, MA,0,1,0,0
+3377,"Synthetic Data Generation Cloud Engineer, DRIVE Sim",Burton,1,3,Burlington, VT,0,1,0,0
+3379,"Synthetic Data Generation Cloud Engineer, DRIVE Sim",B.F. Saul Company,1,3,Bethesda, MD,0,1,0,0
+3381,"Synthetic Data Generation Cloud Engineer, DRIVE Sim",Torc Robotics,1,1,Blacksburg, VA,0,1,0,0
+3382,"Synthetic Data Generation Cloud Engineer, DRIVE Sim",HealthVerity,1,3,Unknow,UK,0,1,0,0
+3383,"Synthetic Data Generation Cloud Engineer, DRIVE Sim",Validere Technologies,1,4,Unknow,UK,0,1,0,0
+3384,"Synthetic Data Generation Cloud Engineer, DRIVE Sim",SunPower,3,3,Richmond, CA,0,1,0,0
+3385,"Synthetic Data Generation Cloud Engineer, DRIVE Sim",Sotheby's,3,4,New York, NY,0,1,0,0
+3386,Data Engineer (Python),Tista Science and Technology Corporation,1,3,Unknow,UK,0,1,0,0
+3387,Data Engineer (Python),"Reach Platform, Inc.",3,3,Boston, MA,0,1,0,0
+3390,Data Engineer (Python),ARK Solutions,3,3,Raleigh, NC,0,1,0,0
+3391,Data Engineer (Python),Electric Power Research Institute,1,2,Palo Alto, CA,0,1,0,0
+3395,Data Engineer (Python),Dogtopia Enterprises LLC,1,2,Phoenix, AZ,0,1,0,0
+3396,Data Engineer (Python),Greater Chicago Food Depository,1,3,Chicago, IL,0,1,0,0
+3401,Senior Data Engineer,National Restaurant Association Solution,1,3,Chicago, IL,0,1,0,0
+3403,Senior Data Engineer,RX Saving Solution,1,3,Overland Park, KS,0,1,0,0
+3405,Senior Data Engineer,MAQ Software,1,3,Redmond, WA,0,1,0,0
+3407,Senior Data Engineer,"Ilitch Holdings, Inc.",3,2,Detroit, MI,0,1,0,0
+3410,Senior Data Engineer,Greater Chicago Food Depository,1,3,Chicago, IL,0,1,0,0
+3412,Senior Data Engineer,Amica Mutual Insurance Company,1,3,Lincoln, RI,0,1,0,0
+3415,Senior Data Engineer,Cornerstone Defense,2,5,Chantilly, VA,0,1,0,0
+3417,Data Engineer,"Quadrint, Inc.",1,4,McLean, VA,0,1,0,0
+3418,Data Engineer,Clark Construction Group,1,3,McLean, VA,0,1,0,0
+3419,Data Engineer,"Torch Technologies, Inc.",1,2,Shalimar, FL,0,1,0,0
+3422,Data Engineer,SEVEN,1,2,Marshall, TX,0,1,0,0
+3423,Data Engineer,Adisys Corporation,1,3,Bellevue, WA,0,1,0,0
+3424,Data Engineer,Amica Mutual Insurance Company,1,3,Lincoln, RI,0,1,0,0
+3425,Data Engineer,Adena & Associates,3,2,Seattle, WA,0,1,0,0
+3427,Data Engineer,G/O Media,3,4,New York, NY,0,1,0,0
+3431,Sr. Software Engineer/ Data Engineer,Alpha Clinical Systems,1,3,Piscataway, NJ,0,1,0,0
+3434,Sr. Software Engineer/ Data Engineer,Inventory Locator Service,1,2,Cordova, TN,0,1,0,0
+3435,Sr. Software Engineer/ Data Engineer,Mavrck,3,4,Boston, MA,0,1,0,0
+3437,Sr. Software Engineer/ Data Engineer,Dremio,3,4,Santa Clara, CA,0,1,0,0
+3439,Sr. Software Engineer/ Data Engineer,ANALYTOS,3,3,Austin, TX,0,1,0,0
+3441,Sr. Software Engineer/ Data Engineer,Highbrow-Tech,3,3,Secaucus, NJ,0,1,0,0
+3445,Sr. Software Engineer/ Data Engineer,ServiceTitan,1,4,Unknow,UK,0,1,0,0
+3446,Principal Data Engineer,Cradlepoint,1,4,Boise, ID,0,1,0,0
+3447,Principal Data Engineer,SunPower,3,3,Richmond, CA,0,1,0,0
+3449,Principal Data Engineer,Group Delphi,2,3,Richmond, VA,0,1,0,0
+3452,Principal Data Engineer,Wealthfront,1,3,Palo Alto, CA,0,1,0,0
+3455,Principal Data Engineer,Ganit,1,4,Unknow,UK,0,1,0,0
+3456,Principal Data Engineer,System1,1,4,Seattle, WA,0,1,0,0
+3457,Principal Data Engineer,Upgrade,1,4,Unknow,UK,0,1,0,0
+3458,Principal Data Engineer,Midcentral Management Resources Llc,1,2,Oklahoma City, OK,0,1,0,0
+3459,Principal Data Engineer,iptiQ,3,3,Armonk, NY,0,1,0,0
+3465,VIE - Data Visualization Engineer - H/F,InfoTrust,3,3,Cincinnati, OH,0,1,0,0
+3467,VIE - Data Visualization Engineer - H/F,RISIRISA,1,3,New York, NY,0,1,0,0
+3471,VIE - Data Visualization Engineer - H/F,MAQ Software,1,3,Redmond, WA,0,1,0,0
+3473,VIE - Data Visualization Engineer - H/F,Nuvento systems,1,3,Unknow,UK,0,1,0,0
+3477,"Data Engineer - Data Services (Computer Science, Database De...",Foundation for California Community Colleges...,1,2,Unknow,UK,0,1,0,0
+3480,"Data Engineer - Data Services (Computer Science, Database De...",Hap Capital,3,4,New York, NY,0,1,0,0
+3481,"Data Engineer - Data Services (Computer Science, Database De...",Echodyne,3,4,Kirkland, WA,0,1,0,0
+3482,"Data Engineer - Data Services (Computer Science, Database De...",Midcentral Management Resources Llc,1,2,Oklahoma City, OK,0,1,0,0
+3483,"Data Engineer - Data Services (Computer Science, Database De...",LinQuest Corporation,1,3,Beavercreek, OH,0,1,0,0
+3485,"Data Engineer - Data Services (Computer Science, Database De...",AI Cyber Solutions,3,3,Tampa, FL,0,1,0,0
+3487,"Data Engineer - Data Services (Computer Science, Database De...",Qcentrio,2,4,Seattle, WA,0,1,0,0
+3490,"Data Engineer - Data Services (Computer Science, Database De...",Highbrow-Tech,3,3,Secaucus, NJ,0,1,0,0
+3491,Data Engineer,ByteDance,3,3,Mountain View, CA,0,1,0,0
+3492,Data Engineer,BXGI,3,3,Palo Alto, CA,0,1,0,0
+3493,Data Engineer,Fender,3,4,Los Angeles, CA,0,1,0,0
+3495,Data Engineer,SecureSoftware.com,1,1,Los Angeles, CA,0,1,0,0
+3498,Data Engineer,"Tyler Technologies, Inc.",3,4,Unknow,UK,0,1,0,0
+3499,Data Engineer,Syndigo,1,3,Chicago, IL,0,1,0,0
+3500,Data Engineer,SymphonyRM,3,4,Palo Alto, CA,0,1,0,0
+3503,Data Engineer,Genesis Capital LLC,1,4,Sherman Oaks, CA,0,1,0,0
+3504,Data Engineer,Riiid Labs,1,3,Mountain View, CA,0,1,0,0
+3505,Data Engineer,Index Analytics Llc,3,3,Baltimore, MD,0,1,0,0
+3506,Data Analytics Report Engineer,Index Analytics Llc,3,3,Baltimore, MD,0,1,0,0
+3507,Data Analytics Report Engineer,Oasis Systems LLC,3,3,Shalimar, FL,0,1,0,0
+3508,Data Analytics Report Engineer,Spirent Communications,1,2,United States,UK,0,1,0,0
+3509,Data Analytics Report Engineer,First Hawaiian Bank,3,2,Hawaii,UK,0,1,0,0
+3512,Data Analytics Report Engineer,Farm Credit Financial Partners,3,2,Springfield, MA,0,1,0,0
+3514,Data Analytics Report Engineer,NECI,1,2,Mansfield, MA,0,1,0,0
+3516,Data Analytics Report Engineer,"Bluehawk, LLC",1,3,Quantico, VA,0,1,0,0
+3517,Data Analytics Report Engineer,Ganit,1,4,Unknow,UK,0,1,0,0
+3518,Data Analytics Report Engineer,Right Talents,3,3,Unknow,UK,0,1,0,0
+3524,"Data Engineer, Newsroom Data Products",Resolution Life,1,3,West Chester, PA,0,1,0,0
+3526,"Data Engineer, Newsroom Data Products",Acuity INC,1,3,Reston, VA,0,1,0,0
+3527,"Data Engineer, Newsroom Data Products",Conde Nast,1,3,New York, NY,0,1,0,0
+3528,"Data Engineer, Newsroom Data Products",Ganit,1,4,Unknow,UK,0,1,0,0
+3530,"Data Engineer, Newsroom Data Products",Dixon Group Services LLC,1,2,Chestertown, MD,0,1,0,0
+3531,"Data Engineer, Newsroom Data Products",MDClone,1,3,Unknow,UK,0,1,0,0
+3532,"Data Engineer, Newsroom Data Products","Presidio, Inc.",1,3,Atlanta, GA,0,1,0,0
+3533,"Data Engineer, Newsroom Data Products","Torch Technologies, Inc.",1,2,Shalimar, FL,0,1,0,0
+3535,"Data Engineer, Newsroom Data Products",Rx Savings Solutions,1,3,Overland Park, KS,0,1,0,0
+3539,Senior Data Engineer,OppFi,3,4,Chicago, IL,0,1,0,0
+3543,Senior Data Engineer,Torc Robotics,1,1,Blacksburg, VA,0,1,0,0
+3544,Senior Data Engineer,AI Cyber Solutions,3,3,Tampa, FL,0,1,0,0
+3546,Senior Data Engineer,"Amyris, Inc.",3,4,Unknow,UK,0,1,0,0
+3547,Senior Data Engineer,Protocol Labs,3,4,Unknow,UK,0,1,0,0
+3548,Senior Data Engineer,Haven Technologies,3,3,New York, NY,0,1,0,0
+3551,Software Engineer - Data Platform - New College Grad,Wealthfront,1,3,Palo Alto, CA,0,1,0,0
+3552,Software Engineer - Data Platform - New College Grad,DeepHealth,3,4,Cambridge, MA,0,1,0,0
+3553,Software Engineer - Data Platform - New College Grad,Ascensus,1,4,Unknow,UK,0,1,0,0
+3555,Software Engineer - Data Platform - New College Grad,Ascent Brands,1,3,Caledonia, MI,0,1,0,0
+3556,Software Engineer - Data Platform - New College Grad,"BioFire Diagnostics, LLC",1,2,Salt Lake City, UT,0,1,0,0
+3560,Software Engineer - Data Platform - New College Grad,Torc Robotics,1,1,Blacksburg, VA,0,1,0,0
+3561,Software Engineer - Data Platform - New College Grad,Columbus Technologies,0,2,Pasadena, CA,0,1,0,0
+3563,Software Engineer - Data Platform - New College Grad,Bloomberg BNA,1,3,Arlington, VA,0,1,0,0
+3564,Software Engineer - Data Platform - New College Grad,EKIN Solutions,3,3,Herndon, VA,0,1,0,0
+3565,Software Engineer - Data Platform - New College Grad,"CRST The Transportation Solution, Inc.",3,4,Unknow,UK,0,1,0,0
+3567,Data Engineer II - AIT,Built Technologies,1,4,Nashville, TN,0,1,0,0
+3569,Data Engineer II - AIT,Right Talents,3,3,Unknow,UK,0,1,0,0
+3574,Data Engineer II - AIT,Merkle,3,3,Chicago, IL,0,1,0,0
+3575,Data Engineer II - AIT,"Bluehawk, LLC",1,3,Quantico, VA,0,1,0,0
+3576,Data Engineer II - AIT,GSPANN Technologie,1,4,Portland, OR,0,1,0,0
+3579,Data Engineer II - AIT,The Cincinnati Insurance Companies,3,3,Fairfield, OH,0,1,0,0
+3580,Data Engineer II - AIT,Fender,3,4,Los Angeles, CA,0,1,0,0
+3582,Software Engineer III (Data Focus),Right Talents,3,3,Unknow,UK,0,1,0,0
+3583,Software Engineer III (Data Focus),Milliman,1,3,Indianapolis, IN,0,1,0,0
+3584,Software Engineer III (Data Focus),Upgrade,1,4,Unknow,UK,0,1,0,0
+3586,Software Engineer III (Data Focus),Gathi,3,4,Unknow,UK,0,1,0,0
+3587,Software Engineer III (Data Focus),Doran Jones,3,5,New York, NY,0,1,0,0
+3590,Software Engineer III (Data Focus),Formlabs,3,4,Somerville, MA,0,1,0,0
+3592,Software Engineer III (Data Focus),Humanity,1,4,Chicago, IL,0,1,0,0
+3596,Data Engineer,Alldus,3,3,United States,UK,0,1,0,0
+3600,Data Engineer,Digital Remedy,1,2,New York, NY,0,1,0,0
+3601,Data Engineer,Codecademy,3,4,New York, NY,0,1,0,0
+3602,Data Engineer,Avestacs,2,3,Unknow,UK,0,1,0,0
+3603,Data Engineer,AArete,1,4,Denver, CO,0,1,0,0
+3605,Data Engineer,Kaizen Technologies,2,4,Las Vegas, NV,0,1,0,0
+3606,Data Engineer,Walker & Dunlop,1,3,Chicago, IL,0,1,0,0
+3608,Data Engineer,nate,1,3,New York, NY,0,1,0,0
+3609,Data Engineer,AllianceChicago,3,3,Chicago, IL,0,1,0,0
+3610,Data Engineer,Hap Capital,3,4,New York, NY,0,1,0,0
+3612,Senior Data Engineer - Data Pipelines & Data Science Platfor...,The RMR Group,1,3,Newton, MA,0,1,0,0
+3614,Senior Data Engineer - Data Pipelines & Data Science Platfor...,BXGI,3,3,Palo Alto, CA,0,1,0,0
+3615,Senior Data Engineer - Data Pipelines & Data Science Platfor...,WellSky,3,3,Overland Park, KS,0,1,0,0
+3616,Senior Data Engineer - Data Pipelines & Data Science Platfor...,DataDelivers,1,3,Schaumburg, IL,0,1,0,0
+3619,Senior Data Engineer - Data Pipelines & Data Science Platfor...,AR XTLabs,3,2,Delaware,UK,0,1,0,0
+3620,Senior Data Engineer - Data Pipelines & Data Science Platfor...,Solidigm,1,2,Folsom, CA,0,1,0,0
+3621,Senior Data Engineer - Data Pipelines & Data Science Platfor...,The Nassau Companies of New York.,1,3,Hartford, CT,0,1,0,0
+3622,Senior Data Engineer - Data Pipelines & Data Science Platfor...,American Chemical Society,3,2,Columbus, OH,0,1,0,0
+3623,Senior Data Engineer - Data Pipelines & Data Science Platfor...,g2o,1,3,Columbus, OH,0,1,0,0
+3626,Data Engineer III,CEdge Software Consultants,3,3,Unknow,UK,0,1,0,0
+3628,Data Engineer III,Chicago Blackhawks,3,3,Chicago, IL,0,1,0,0
+3629,Data Engineer III,Ardan Labs,1,3,Unknow,UK,0,1,0,0
+3630,Data Engineer III,Resonate,1,3,Reston, VA,0,1,0,0
+3632,Data Engineer III,Columbus Technologies,1,4,Pasadena, CA,0,1,0,0
+3633,Data Engineer III,Away Travel,3,4,San Francisco, CA,0,1,0,0
+3634,Data Engineer III,CEFCU,1,2,Peoria, IL,0,1,0,0
+3637,Data Engineer III,Alpha Clinical Systems,1,3,Piscataway, NJ,0,1,0,0
+3638,Data Engineer III,PESI,3,3,Eau Claire, WI,0,1,0,0
+3639,Data Engineer III,Offerpad,1,3,Chandler, AZ,0,1,0,0
+3641,Data Engineer-Remote USA,America At Work,1,3,Unknow,UK,0,1,0,0
+3642,Data Engineer-Remote USA,PESI,3,3,Eau Claire, WI,0,1,0,0
+3643,Data Engineer-Remote USA,Offerpad,1,3,Chandler, AZ,0,1,0,0
+3645,Data Engineer-Remote USA,Lightkeeper,3,3,Boston, MA,0,1,0,0
+3647,Data Engineer-Remote USA,Texas Mutual Insurance Company,1,1,Austin, TX,0,1,0,0
+3652,Data Engineer-Remote USA,Blizzard Entertainment,3,5,Irvine, CA,0,1,0,0
+3653,Data Engineer-Remote USA,Codecademy,3,4,New York, NY,0,1,0,0
+3654,Data Engineer-Remote USA,HealthVerity,1,3,Unknow,UK,0,1,0,0
+3656,Data Engineer,Nicholas and Company,1,3,Salt Lake City, UT,0,1,0,0
+3658,Data Engineer,Recruiting for Good,1,4,Los Angeles, CA,0,1,0,0
+3659,Data Engineer,Bold Penguin,1,3,Unknow,UK,0,1,0,0
+3660,Data Engineer,Federal Reserve Bank of New York,1,4,New York, NY,0,1,0,0
+3661,Data Engineer,Electric Power Research Institute,1,2,Palo Alto, CA,0,1,0,0
+3665,Data Engineer,Gravie,1,3,Unknow,UK,0,1,0,0
+3668,Data Engineer,Moda Health,1,3,Portland, OR,0,1,0,0
+3671,"Data Engineer - Redwood City, CA",CMACGM,3,4,Norfolk, VA,0,1,0,0
+3672,"Data Engineer - Redwood City, CA",MOLOCO,3,3,Redwood City, CA,0,1,0,0
+3673,"Data Engineer - Redwood City, CA",Aeva,1,4,Mountain View, CA,0,1,0,0
+3675,"Data Engineer - Redwood City, CA",Panther Labs,3,6,San Francisco, CA,0,1,0,0
+3677,"Data Engineer - Redwood City, CA",Epiphany Industrial Technologies,1,3,San Antonio, TX,0,1,0,0
+3680,"Data Engineer - Redwood City, CA",Performant Financial Corporation,1,2,Unknow,UK,0,1,0,0
+3682,"Data Engineer - Redwood City, CA",AR XTLabs,3,2,Delaware,UK,0,1,0,0
+3684,"Data Engineer - Redwood City, CA",EX2 Outcoding,1,2,United States,UK,0,1,0,0
+3686,Junior Ground Data Systems Operations Engineer,Geologics Corporation,2,3,Pasadena, CA,0,1,0,0
+3688,Junior Ground Data Systems Operations Engineer,Walker & Dunlop,1,3,Chicago, IL,0,1,0,0
+3697,Junior Ground Data Systems Operations Engineer,NECI,1,2,Mansfield, MA,0,1,0,0
+3698,Junior Ground Data Systems Operations Engineer,Resultant,1,3,Indianapolis, IN,0,1,0,0
+3701,"Software Engineer, Data Platform",Go2Andaman,3,4,San Francisco, CA,0,1,0,0
+3706,"Software Engineer, Data Platform","CRST The Transportation Solution, Inc.",3,4,Unknow,UK,0,1,0,0
+3708,"Software Engineer, Data Platform","Quadrint, Inc.",1,4,McLean, VA,0,1,0,0
+3711,"Software Engineer, Data Platform",Sun Life US,3,3,Kansas City, MO,0,1,0,0
+3712,"Software Engineer, Data Platform",Broad Institute,1,2,Cambridge, MA,0,1,0,0
+3720,"Performance Engineer - Amazon Redshift, Redshift Data Manage...",Zscaler,1,4,San Jose, CA,0,1,0,0
+3721,"Performance Engineer - Amazon Redshift, Redshift Data Manage...",nate,1,3,New York, NY,0,1,0,0
+3723,"Performance Engineer - Amazon Redshift, Redshift Data Manage...",OUTFRONT media,1,3,New York, NY,0,1,0,0
+3724,"Performance Engineer - Amazon Redshift, Redshift Data Manage...",f5,1,4,San Jose, CA,0,1,0,0
+3725,"Performance Engineer - Amazon Redshift, Redshift Data Manage...","Torch Technologies, Inc.",1,2,Shalimar, FL,0,1,0,0
+3727,"Performance Engineer - Amazon Redshift, Redshift Data Manage...",Bloomberg BNA,1,3,Arlington, VA,0,1,0,0
+3729,"Performance Engineer - Amazon Redshift, Redshift Data Manage...",MDClone,1,3,Unknow,UK,0,1,0,0
+3732,Python Data Engineer,NWEA,0,3,Portland, OR,0,1,0,0
+3733,Python Data Engineer,Pekin Insurance,1,3,Pekin, IL,0,1,0,0
+3734,Python Data Engineer,ConcertAI,1,2,Plymouth Meeting, PA,0,1,0,0
+3737,Python Data Engineer,Rx Savings Solutions,1,3,Overland Park, KS,0,1,0,0
+3738,Python Data Engineer,Bayview Asset Management,1,2,Coral Gables, FL,0,1,0,0
+3741,Python Data Engineer,Pattern Data,1,3,Charlotte, NC,0,1,0,0
+3742,Python Data Engineer,Gravie,1,3,Unknow,UK,0,1,0,0
+3743,Python Data Engineer,Redox,1,4,Unknow,UK,0,1,0,0
+3744,Python Data Engineer,findhelp,1,3,Unknow,UK,0,1,0,0
+3745,Python Data Engineer,GTA Telecom,2,3,Branchburg, NJ,0,1,0,0
+3746,Senior Data Engineer (Remote),Ganit,1,4,Unknow,UK,0,1,0,0
+3747,Senior Data Engineer (Remote),The Washington Post,1,3,Washington, DC,0,1,0,0
+3748,Senior Data Engineer (Remote),Honda Dev. and Mfg. of Am LLC,3,0,Marysville, OH,0,1,0,0
+3749,Senior Data Engineer (Remote),Sentinel,1,2,Livonia, MI,0,1,0,0
+3750,Senior Data Engineer (Remote),Provi,1,4,Chicago, IL,0,1,0,0
+3751,Senior Data Engineer (Remote),Cint,3,4,New Orleans, LA,0,1,0,0
+3752,Senior Data Engineer (Remote),Kagr Llc,1,3,Foxborough, MA,0,1,0,0
+3753,Senior Data Engineer (Remote),KAGR,1,3,Foxborough, MA,0,1,0,0
+3756,Senior Data Engineer (Remote),Built Technologies,1,4,Nashville, TN,0,1,0,0
+3757,Senior Data Engineer (Remote),Vareto,3,4,Sunnyvale, CA,0,1,0,0
+3758,Senior Data Engineer (Remote),eClinicalWorks,1,2,Westborough, MA,0,1,0,0
+3760,Senior Data Engineer (Remote),"Deserve, Inc.",1,4,Palo Alto, CA,0,1,0,0
+3763,Data Engineer,Tokyo Electron Limited,1,3,Portland, OR,0,1,0,0
+3764,Data Engineer,Bayview Asset Management,1,2,Coral Gables, FL,0,1,0,0
+3765,Data Engineer,Resultant,1,3,Indianapolis, IN,0,1,0,0
+3766,Data Engineer,B.F. Saul Company,1,3,Bethesda, MD,0,1,0,0
+3767,Data Engineer,Affinity.co,3,3,Unknow,UK,0,1,0,0
+3768,Data Engineer,"Orpine, Inc. Internal",3,3,United States,UK,0,1,0,0
+3770,Data Engineer,Excellus,1,2,Rochester, NY,0,1,0,0
+3771,Data Engineer,Acuity INC,1,3,Reston, VA,0,1,0,0
+3773,Data Engineer,Bartleby,1,3,Basking Ridge, NJ,0,1,0,0
+3778,SIEM/Data Analytics Developer/Engineer - Remote,Advia Credit Union,1,3,Elkhorn, WI,0,1,0,0
+3779,SIEM/Data Analytics Developer/Engineer - Remote,Solidigm,1,2,Folsom, CA,0,1,0,0
+3780,SIEM/Data Analytics Developer/Engineer - Remote,Little Otter,1,3,San Francisco, CA,0,1,0,0
+3781,SIEM/Data Analytics Developer/Engineer - Remote,"Sonos, Inc",1,3,Seattle, WA,0,1,0,0
+3782,SIEM/Data Analytics Developer/Engineer - Remote,Etiometry,3,3,Boston, MA,0,1,0,0
+3786,SIEM/Data Analytics Developer/Engineer - Remote,Ardan Labs,1,3,Unknow,UK,0,1,0,0
+3792,Data Engineer,Technology Concepts & Design (TCDI),1,2,Greensboro, NC,0,1,0,0
+3793,Data Engineer,NEC Laboratories Europe GmbH,1,2,New York, NY,0,1,0,0
+3795,Data Engineer,Right Talents,3,3,Unknow,UK,0,1,0,0
+3798,Data Engineer,Prolific Machines,3,4,San Francisco, CA,0,1,0,0
+3799,Data Engineer,Evolus,1,4,Newport Beach, CA,0,1,0,0
+3800,Data Engineer,Provi,1,4,Chicago, IL,0,1,0,0
+3801,Data Engineer,Alldus,3,2,United States,UK,0,1,0,0
+3803,Data Engineer,DFLabs,3,3,Unknow,UK,0,1,0,0
+3806,Senior Data Engineer,NP Digital,1,4,Unknow,UK,0,1,0,0
+3807,Senior Data Engineer,Honda Dev. and Mfg. of Am LLC,3,0,Marysville, OH,0,1,0,0
+3811,Senior Data Engineer,Byte Systems,3,6,Reston, VA,0,1,0,0
+3812,Senior Data Engineer,ConcertAI,1,2,Plymouth Meeting, PA,0,1,0,0
+3816,Senior Data Engineer,Navvis & Company LLC,3,3,Unknow,UK,0,1,0,0
+3819,Senior Data Engineer,"Torch Technologies, Inc.",1,2,Shalimar, FL,0,1,0,0
+3820,Senior Data Engineer,Cincinnati Reds,3,3,Cincinnati, OH,0,1,0,0
+3821,"Sr QA Automation Engineer -Data (Remote, Temporary)",NWEA,0,3,Portland, OR,0,1,0,0
+3824,"Sr QA Automation Engineer -Data (Remote, Temporary)",findhelp,1,3,Unknow,UK,0,1,0,0
+3829,"Sr QA Automation Engineer -Data (Remote, Temporary)",Health Catalyst,1,4,Unknow,UK,0,1,0,0
+3831,"Sr QA Automation Engineer -Data (Remote, Temporary)",Boston Red Sox,1,3,Boston, MA,0,1,0,0
+3833,"Sr QA Automation Engineer -Data (Remote, Temporary)",Nisum,1,4,Pleasanton, CA,0,1,0,0
+3834,"Sr QA Automation Engineer -Data (Remote, Temporary)","Mastery Logistics Systems, Inc.",3,5,Unknow,UK,0,1,0,0
+3837,Senior Data Engineer,NWEA,0,4,Portland, OR,0,1,0,0
+3838,Senior Data Engineer,Databricks,3,5,San Francisco, CA,0,1,0,0
+3839,Senior Data Engineer,Bartleby,1,3,Basking Ridge, NJ,0,1,0,0
+3842,Senior Data Engineer,Squadex,1,4,Palo Alto, CA,0,1,0,0
+3843,Senior Data Engineer,"Navstar, Inc.",1,4,Reston, VA,0,1,0,0
+3844,Senior Data Engineer,Spotify,3,4,New York, NY,0,1,0,0
+3846,Senior Data Engineer,Federal Reserve Bank of New York,1,4,New York, NY,0,1,0,0
+3847,Senior Data Engineer,Loft Orbital Solutions,1,3,San Francisco, CA,0,1,0,0
+3848,Senior Data Engineer,Ex Libris,1,4,Unknow,UK,0,1,0,0
+3852,Part-Time Student-Data Engineer-Intelligent Solutions Group-...,InfoTrust,3,3,Cincinnati, OH,0,1,0,0
+3853,Part-Time Student-Data Engineer-Intelligent Solutions Group-...,iptiQ,3,3,Armonk, NY,0,1,0,0
+3854,Part-Time Student-Data Engineer-Intelligent Solutions Group-...,Solidigm,1,2,Folsom, CA,0,1,0,0
+3855,Part-Time Student-Data Engineer-Intelligent Solutions Group-...,Florida Blue,1,2,Unknow,UK,0,1,0,0
+3856,Part-Time Student-Data Engineer-Intelligent Solutions Group-...,Evolus,1,4,Newport Beach, CA,0,1,0,0
+3857,Part-Time Student-Data Engineer-Intelligent Solutions Group-...,Epiphany Industrial Technologies,1,3,San Antonio, TX,0,1,0,0
+3858,Part-Time Student-Data Engineer-Intelligent Solutions Group-...,Promega,1,3,Madison, WI,0,1,0,0
+3859,Part-Time Student-Data Engineer-Intelligent Solutions Group-...,Brunswick Corporation,1,4,Fond du Lac, WI,0,1,0,0
+3860,Part-Time Student-Data Engineer-Intelligent Solutions Group-...,Lippert,1,2,Elkhart, IN,0,1,0,0
+3861,Part-Time Student-Data Engineer-Intelligent Solutions Group-...,Etsy,1,4,Brooklyn, NY,0,1,0,0
+3862,Part-Time Student-Data Engineer-Intelligent Solutions Group-...,MomentoUSA,3,4,Portland, OR,0,1,0,0
+3866,Data Engineer,Exavalu,1,4,United States,UK,0,1,0,0
+3867,Data Engineer,cloudteam,2,3,Jacksonville, FL,0,1,0,0
+3869,Data Engineer,Broad Institute,1,2,Cambridge, MA,0,1,0,0
+3871,Data Engineer,NWEA,0,4,Portland, OR,0,1,0,0
+3872,Data Engineer,Blue Cross Blue Shield of Louisiana,3,3,Baton Rouge, LA,0,1,0,0
+3873,Data Engineer,Royal Caribbean Group,3,3,United States,UK,0,1,0,0
+3874,Data Engineer,Dogtopia Enterprises LLC,1,2,Phoenix, AZ,0,1,0,0
+3878,Data Engineer,Onpoint Health Data,3,3,Portland, ME,0,1,0,0
+3880,Data Engineer,Navvis & Company LLC,3,3,Unknow,UK,0,1,0,0
+3882,Data Engineer,Q2ebanking,1,4,United States,UK,0,1,0,0
+3883,Data Engineer,Chainlink Labs,1,3,Unknow,UK,0,1,0,0
+3888,Data Engineer,Singularity 6,3,4,Los Angeles, CA,0,1,0,0
+3889,Data Engineer,Juniper Networks,3,3,Sunnyvale, CA,0,1,0,0
+3891,Data Engineer,Blizzard Entertainment,3,5,Irvine, CA,0,1,0,0
+3892,Data Engineer,a.i. solutions,1,3,Hill AFB, UT,0,1,0,0
+3893,Data Engineer,VEVO,1,2,Portland, OR,0,1,0,0
+3894,Data Engineer,Brightly Software India Private Limited,1,3,Unknow,UK,0,1,0,0
+3896,Requirements Engineer- Data Induction,iptiQ,3,3,Armonk, NY,0,1,0,0
+3898,Requirements Engineer- Data Induction,Alexandria Real Estate Equities,1,3,Pasadena, CA,0,1,0,0
+3899,Requirements Engineer- Data Induction,Alldus,3,2,United States,UK,0,1,0,0
+3901,Requirements Engineer- Data Induction,Blue Cross of Idaho,1,3,Meridian, ID,0,1,0,0
+3903,Requirements Engineer- Data Induction,"Goken America, LLC",1,3,Ann Arbor, MI,0,1,0,0
+3905,Requirements Engineer- Data Induction,Wellframe,3,4,Boston, MA,0,1,0,0
+3906,Requirements Engineer- Data Induction,Solidigm,1,2,Folsom, CA,0,1,0,0
+3907,Requirements Engineer- Data Induction,Centriam,3,3,Minneapolis, MN,0,1,0,0
